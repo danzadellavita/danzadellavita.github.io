@@ -1,0 +1,590 @@
+---
+title: "Biologische aspecten van Biodanza"
+author: "Lieven Clement"
+date: "statOmics, Ghent University (https://statomics.github.io)"
+output:
+    html_document:
+      code_download: true
+      theme: cosmo
+      toc: true
+      toc_float: true
+      highlight: tango
+      number_sections: true
+---
+
+# Biocentrisch principe 
+
+De theorie van Biodanza heeft Rolando geënt op zijn axioma: ‘biocentrisch principe’. 
+
+Het universum is
+        
+- Matrix van het leven 
+- Zelforganiserende structuur die leven opbouwt 
+- Opgevat als levend organisme
+ 
+
+$\rightarrow$ Uitnodiging om je relatie als menselijk wezen tot de hele biosfeer grondig te herdenken  
+$\rightarrow$ Leven is intrensiek sacraal en hoort dus in het hart te liggen van levensbeschouwing/wereldbeeld 
+
+## Vivencia
+
+- Unieke weg om het biocentrisch principe te beleven en om ervan doordrongen te worden.
+- En dat niet door onze mind maar door een dieper innerlijk weten
+
+## Inspiratie bij 3 nobelprijs winnaars
+
+- Erwin Schrödinger: "order-from-disorder" 
+- Ilia Prigogine: "Dissipatieve structuren" 
+- Christian de Duve: "Life is an obligatory manifestation of matter, written into the fabric of the universe"
+
+# Biologische aspecten van de biodanza 
+
+![](./figs/biodanzaModel.png){width=50%}
+
+1. Principes van het kosmische leven en genese van het leven
+2. Evolutie en fylogenese
+3. Ontogenese
+
+# Wat is leven?
+
+## Schrödinger en Prigogine
+
+Boek: "What Is Life? The Physical Aspect of the Living Cell" (Schrödinger, 1944). 
+
+Het leven is 
+
+1. een open systeem dat orde kan creeëren uit chaos door externe energie bronnen uit te buiten: negatieve entropie (entropie is wanorde)
+
+2. met de capaciteit om zijn eigen specifieke blauwdruk door te geven van generatie op generatie (reproductieve invariantie) 
+
+Merk op dat DNA in de tijd van Schrödinger nog niet is gekend.
+
+### Hoe kan dit? 
+
+- Tweede hoofdwet van de thermodynamica: een gesloten systeem streeft steeds naar maximale entropie
+
+- Entropie is wanorde
+
+- Leven is 
+    
+    - gebaseerd op chemische reacties
+    - een open systeem
+    - energie van de zon 
+    - chaos van moleculen op aarde 
+    - Tijdens de chemische reacties die structuur geven wordt ook veel energie verloren in warmte: dissipatie 
+
+$\rightarrow$ toename van entropie
+
+- Prigogine noemt leven daarom een dissipatieve structuur
+- Ons zonnestelsel is een dissipatieve zone waar orde uit chaos kan worden gegenereerd. 
+
+## Definitie volgens de Duve
+
+Boek: "Life Evolving - Molecules, Mind and Meaning" (de Duve, 2002)
+
+Het Leven is 
+
+1. Één
+2. Chemie
+3. Informatie 
+
+
+Ontstaan van leven: eerst energie, dan chemie en daarna informatie. 
+
+### Het leven is één
+
+#### Alle organismen zijn opgebouwd uit cellen
+
+- Eencelligen
+
+![](./figs/Prochlorococcus_marinus.jpg){width=50%}  
+(Cyanobacterium, bron: Chisholm Lab, wikipedia) 
+
+- Essentieel is dat ze een membraan hebben die hen afscheid van de omgeving en interactie met omgeving mogelijk maakt. 
+
+
+- Meercelligen 
+
+![](https://pmgbiology.files.wordpress.com/2015/03/levelsoforganization.jpg)
+
+(bron: pmgbiology)
+
+#### LUCA (last universal common ancestor).
+
+- Alle cellen komen voort uit een gemeenschappelijke populatie voorouderlijke cellen.  
+
+![](./figs/Phylogenetic_tree.svg)
+(Bron: wikipedia)    
+    
+#### Universele brandstof voor leven (is eigenlijk geen verbranding maar chemie)
+
+![](./figs/ATP-ADP.png)
+(bron: adapted from wikipedia)
+
+- ATP: Adinose-tri-phosphate
+- Merk op dat AMP een van de bouwblokken is van RNA 
+- Link tussen energie en informatie! 
+
+#### Zelfde bouwblokken voor alle levende organismen
+
+1. Lipiden (vetachtige substanties): membranen afscheiding
+2. Koolhydraten (suikers): energie + bouwblok
+3. Aminozuren: basisbouwblokken van eiwitten de werkpaarden van een cel
+4. nucleine-zuren: basisbouwblokken van RNA en DNA
+
+##### Lipiden    
+![](./figs/Cell_membrane_detailed_diagram_4.svg)
+(bron: Doug Hatfield, wikipedia)
+
+##### Koolhydraten 
+![](https://thebiologynotes.com/wp-content/uploads/2020/11/Carbohydrates-definition-classification-with-structure-and-functions.jpeg)
+(bron: thebiologynotes.com)
+
+##### Aminozuren
+![](https://thebiologynotes.com/wp-content/uploads/2020/12/Amino-acids-and-Proteins.jpeg)
+(bron: thebiologynotes.com)
+    
+##### Nucleïne zuren
+
+- bouwblokken voor dragers van erfelijk materiaal RNA en DNA
+
+
+![](./figs/RNA-Nucleobases.svg){width=50%}  
+(RNA, bron: wikipedia)
+
+![](./figs/DNA_Nucleotides.jpeg)  
+(DNA, bron: OpenStax, wikipedia)
+
+![](./figs/Difference_DNA_RNA-EN.svg)  
+(bron: Sponk, wikipedia)
+    
+
+#### Zelfde genetische code (zie Het Leven is Informatie)
+
+### Het Leven is Chemie
+
+#### Energie 
+
+![](./figs/ATP-ADP.png)
+(bron: wikipedia)
+
+#### Katalyse
+
+![](./figs/Citric_acid_cycle_with_aconitate_2.svg)
+(bron: Narayanese, wikipedia)
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/yk14dOOvwMk?start=8&end=60"
+frameborder="0"
+style="display: block; margin: auto;"
+allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></iframe>
+
+"Any living organism is a reflection of its enzyme arsenal" 
+ 
+- Katalyse: Groot aantal chemische reacties die nooit zouden gebeuren wanneer we de molecules gewoon zouden mengen zonder een katalysator
+
+- Katalysator: een chemische verbinding die de reactie help plaatsvinden zonder hierbij te worden verbruikt. Biologische katalysatoren worden enzymes genoemd. 
+
+- Enzymes zijn eiwitten
+
+Enzymes 
+
+- vissen de molecules het complex mengsel van de cell 
+- die uit duizenden verbindingen bestaan
+- meestal met een lage concentratie
+- via bindingssites die de nodige moleculen, substraten, op die manier in 3D samen brengen 
+- zodat deze kunnen reageren en een nieuwe verbinding kunnen vormen. 
+
+#### Zelforganisatie 
+
+- Sommige eiwitten geven ook structuur aan de cel
+- Ze kunnen zich spontaan zelf organiseren
+- Zie video waarbij cytoplasma (celsap) werd gehomogeniseerd dat zich daarna spontaan herorganiseerd in celachtige structuren.
+
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/prq1Occu22s?start=0&end=7&loop=1"
+frameborder="0"
+style="display: block; margin: auto;"
+allow="autoplay; encrypted-media" allowfullscreen  data-external="1"></iframe>
+
+(bron: Science DOI: 10.1126/science.aav7793)
+
+De onderzoekers vonden dat volgende nodig was hiervoor: 
+
+- ATP de energiebron van een cel 
+- soort filamenteuze proteinen (microtubuli) 
+- Dynein, een soort motor proteine 
+
+![](./figs/Tubulin_Infographic.jpeg)  
+(bron: Pakorn Kanchanawong, wikipedia)
+
+Proteinen spelen dus een centrale rol in het leven: katalyse + structuur
+
+Een cel erft van de moedercel niet alleen erfelijk materiaal maar ook spatiale organisatie door haar bestaande macro-moleculaire componenten.
+
+### Het Leven is Informatie
+
+![](./figs/Difference_DNA_RNA-EN.svg){width=50%}  
+(bron: Sponk, wikipedia)
+
+![](https://aholdencirm.files.wordpress.com/2016/06/transcription_2.jpg)  
+(bron: [tokresources.org](http://www.tokresource.org/tok_classes/biobiobio/biomenu/transcription_translation/))
+
+- Principe: hybridisatie van complementaire basen! 
+- DNA: 4 letter code (4 basen: ACGT)
+- RNA: 4 letter code (4 basen: ACGU)
+- Transport RNA: codon (triplet van 3 basen) per aminozuur die wordt aangebracht
+
+- Eiwit: keten opgebouwd uit aminozuren 
+
+    - er bestaan meer dan 400 aminozuren 
+    - enkel 20 werden geselecteerd door het leven om eiwitten te bouwen
+
+![](./figs/Aminoacids_table.svg){width=50%}  
+(bron: wikipedia)
+
+- Code is zo geëvolueerd dat veel mutaties leiden tot synonieme codons  of tot inbouwen van aminozuur dat niet erg sterk verschillend is $\rightarrow$ eiwit functie blijft behouden
+
+- gen: basiseenheid van erfelijk materiaal, een DNA sequentie die codeert voor de synthese van een gen product, een eiwit of een functioneel RNA. 
+
+![](./figs/gene.svg)
+(bron: Thomas Shafee, wikipedia)
+
+- DNA is enkel de drager van ergelijk materiaal (te vergelijken met harde schijf)
+
+- RNA speelt een meer centrale rol:
+
+    - messenger RNA (te vergelijken met werkgeheugen van een cel)
+    - ribozymen: katalitische functie 
+        - transfer RNA bij translatie tot eiwitten
+        - in ribosomen bij translatie tot eiwitten 
+        - nog vele andere rybozymen
+    - RNA primer noodzakelijk voor kopieren van DNA   
+    - Drager van erfelijk materiaal (vb corona virus)
+
+
+# Principes van het kosmische leven en genese van het leven
+
+![](./figs/biologischeAspectenBiodanzaDeelI.png){width=50%}
+
+## Ontstaan van het heelal
+
+![](./figs/originKosmos.jpg)  
+(bron: NASA/WMAP Science Team, wikipedia) 
+
+## Ontstaan van eerste sterren
+
+- Na afkoelen van expanderende heelal
+- Gaswolken die vooral bestaan uit waterstof (H) en helium (He)
+
+![](https://universe-review.ca/I08-13-firststars6.jpg)  
+(bron: universe-review.ca)
+
+- Concentratie verschillen in de wolk 
+
+$\rightarrow$ zwarte kracht trekt wolk verder samen
+$\rightarrow$ implosie van wolken
+$\rightarrow$ stervorming: grote opwarming in middenste van geimplodeerde nevel door zwaartekracht 
+$\rightarrow$ condities waardoor kern fusie mogelijk wordt. 
+$\rightarrow$ omzetten van lichte atomen naar zwaardere atomen waarbij heel veel energie vrijkomt. 
+
+## Kernfusie
+
+![](./figs/fusion.svg)  
+(bron: Sarang, wikipedia)
+
+- Als alle waterstof opgebruikt is, vorming van zwaardere atomen veelal tijdens supernova (ontploffing van de ster)
+
+![](https://www.universetoday.com/wp-content/uploads/2020/04/hires.jpg)  
+(bron: www.universetoday.com)
+
+- Kernfusie in sterren tot ijzer 
+
+![](./figs/fusionEnergy.png)  
+(bron: Fastfission, wikipedia)
+
+
+- Alle zwaardere atomen zijn gemaakt in de sterren $\rightarrow$ we zijn opgebouwd uit kosmische stof! 
+
+- Na supernova is er opnieuw een nevel waaruit weer nieuwe sterren kunnen ontstaan. 
+
+## Koolstofverbindingen in interstellaire ruimte
+
+- Poly aromatische koolstof verbindingen (PAHs) in de interstellaire ruimte
+
+    - Cat's paw nebula in melkweg.
+    - Groene regio's zijn gebieden waarin straling van hete sterren PAHs doet fluoresceren. 
+    
+![](./figs/orionWithPAH.jpeg){width=200%}  
+(bron: NASA/JPL-Caltech, wikipedia)
+
+
+- PAHs werder al kort na de Big Bang gegenereerd. 
+
+
+- Worden in interstellaire ruimte verder getransformeerd 
+
+    - hydrogenatie: waterstoffen, 
+    - oxidatie: zuurstof, 
+    - hydroxylatie (OH) 
+    - ...
+
+wat een eerste stap is naar aminozuren (bouwblokken eiwitten) en nucleotiden (bouwblokken RNA en DNA). 
+
+## Onstaan van het zonnestelsel en de genese van het leven
+
+
+![](https://images.squarespace-cdn.com/content/v1/53a0be00e4b014ec3a93a9c2/1532093625692-46R36V6GTGL49HJV934P/Twombly-SciAm-Origins_match.jpg)  
+(Author: Matthew Twombly)
+
+Na afkoeling van de aarde is er water: 
+
+![](./figs/3D_model_hydrogen_bonds_in_water.svg){width=50%}  
+(bron: wikipedia)
+
+- Merkwaardige molecule: vloeibaar bij vrij lage temperaturen door waterstof bruggen 
+- Vloeibaar water essentieel voor leven
+- Stolt met volume vergroting! 
+
+
+RNA
+- Merk op dat RNA bestaat uit AMP, CMP, GMP en UMP 
+- Biologische energie "coin": ATP zelfde molecule maar met 3 fosfaatgroepen (zie ATP/ADP)
+- Recent onderzoek toont aan dat RNA ook bijzonder katalytisch is en zichzelf kan repliceren in condities zonder zuurstof en in aanwezigheid van ijze (e.g. Williams et al, Nat.Chem., 2013, DOI: 10.1038/nchem.1649)
+
+# Evolutie en Fylogenese
+
+![](./figs/biologischeAspectenBiodanzaDeelII.png){width=50%}
+
+## Evolutie
+
+### Variatie en Selectie
+
+![](./figs/Binary_Fission_2.svg){width=70%}  
+(bron: Ecoddington, wikipedia)
+![](./figs/DNA_polymerase.svg){width=27%}  
+(bron: wikipedia)
+
+- Foutenmarge bij DNA  replicatie: 1 fout per miljard baseparen die wordt gekopieerd
+- Inserties/deleties: baseparen die worden toegevoegd of verwijderd
+- Recombinatie: grote stukken DNA die van plaats worden gewisseld 
+
+$\rightarrow$ Mutaties  
+$\rightarrow$ Natuurlijke variabiliteit
+
+![](./figs/sickleCellWikipedia2.png)
+![](./figs/Sickle_Cells_wiki.jpeg){width=45%}
+![](./figs/Sickle_Cell_Anemia_wiki3.png){width=45%}  
+(Bron: Thomas Samuel (1), OpenStax College (2), BruceBlaus(3), wikipedia)
+
+- Komt vooral in Afrika voor.
+- Waarom blijft deze mutatie bestaan? 
+- Selectie omdat het resistentie geeft tegen malaria 
+
+
+### Evolutie 
+- Natuurlijk proces dat aan de basis ligt van het ontstaan van alle soorten (planten, dieren, bacteriën, schimmels, ... en mensachtigen)
+
+- Eindresultaat van twee tegenwerkende krachten: **variatie** en **selectie**
+
+- Variatie door spontaan optreden van foutjes in de genetische code: mutaties
+
+- Selectie door combinatie van omgevingsomstandigheden en mutatie, is mutatie gunstig of schadelijk is voor bepaald organisme in deze omgeving
+
+- Kans dat een mutatie wordt overgedragen, afhankelijk van voortplantingssucces
+
+- Proces van mutatie en selectie kan over veel generaties leiden tot nieuwe soort
+
+
+### Genetische drift 
+
+- Genetische drift: toevallige fluctuatie van allelen 
+
+- Vooral sterk in kleine populaties
+
+- In tegenstelling tot selectie niet adaptief 
+
+- Ontstaan van nieuwe soort gaat sneller als een klein deel van de populatie wordt afgesplitst in een nieuw milieu. 
+
+
+### Horizontale genuitwisseling
+
+- niet sexuele uitwisseling van genetische informatie
+- Komt veelvuldig voor tussen prokaryoten (eubacteria en arachae) vb uitwisseling resistentie tegen antibiotica, maar ook in eukaryoten (protisten)
+
+### Teleonomy
+
+- Er is enkel het unieke primitieve doel van behoud en reproductie van de soort.
+- Evolutie heeft verder geen doel of richting 
+- Bij het ontstaan van complexe organen en organismen kan het lijken alsof er een richting is/alsof die met een doel zijn ontstaan, maar dat is er niet. 
+
+![](./figs/evolutionEye.png)  
+(bron: Matticus78, wikipedia)
+
+- Een oog is niet door de evolutie ontwikkeld met het doel om te zien. 
+- Het oog heeft enkel de functie om te zien
+- Het is het resultaat van een gradueel proces waarbij elke aanpassing weer reproductief voordeel gaf in dat bepaald milieu. 
+- In een andere omgeving kan het niet langer nuttig zijn, bv mol en verdwijnt de functie weer
+    
+- Het ontstaan van een soort is het resultaat van evolutie, maar niet het doel van evolutie. 
+
+- evolutie: is aanpassing met als doel behoud en reproductie
+
+![](./figs/selectionNoDirectionDef.png)  
+(bron: Stephen J. Gould, 1996, Full House: the spread of Excellence from Plato To Darwin)
+
+![](https://www.pnas.org/content/pnas/115/25/6506/F1.large.jpg)  
+(Massa in giga ton koolstof. Bron: doi.org/10.1073/pnas.1711842115)
+
+- Wel heel grote foutenmarge op bacteriën (kan factor 10 hoger zijn). 
+
+- Het ontstaan van soorten en aanpassing aan het milieu noemt Rolando ook evolutionaire differentiatie. 
+
+## Fylogenese 
+
+Ontstaan van alle soorten door evolutie
+
+![](./figs/Phylogenetic_tree.svg)  
+(Bron: wikipedia)    
+
+![](https://naturedocumentaries.org/wp-content/uploads/2017/12/liferockystartstrip.jpg)
+
+| 4.5 BYA | 4.3 BYA | 3.8 BYA | 3.5 BYA | 540 MYA | 520 MYA |
+|---------|---------|---------|---------|---------|---------|
+|         |         |         |         |         |         |
+
+(bron: naturedocumetaries.org)
+
+
+- Black earth (4.5 BYA): heet basalt gesteente en stof in koud vacuum
+- Grey earth (4.3 BYA): graniet
+- Blue earth (3.8 BYA): water
+- Red earth (3.5 BYA): Radicale verandering door leven. 
+
+    - Cyanobacteria die fotosynthese doen. 
+    - Zuurstof. 
+    - Alle ijzer in oceaan precipiteert als roest (rood). 
+    - Van 250 $\rightarrow$ > 5000 mineralen. 
+    - Massale uitsterfte van leven. 
+
+- White Earth (540 MYA)
+    - Grote ijstijd
+    - Massale uitsterfte van leven
+    - Vulcanische activiteit was redding: broeikasgassen
+
+- Green Earth (520 MYA)
+    
+    - Explosie leven 
+    - Van eencellig naar meer complex leven 
+
+
+### Geboorte van eukaryote cell
+
+Twee archetypes: prokaryoten (eenvoudige cellen,  0.1 to 5.0 $\mu m$) en eukaryoten (grotere meer complexe cellen, 10-100 $\mu m$) 
+
+![](./figs/prokaryoteCell.svg){width=30%}
+![](./figs/animalCell.svg){width=30%}
+![](./figs/plantCell.svg){width=30%}  
+(bron:  Ali Zifan (1) & Mariana Ruiz Villarreal (2 & 3), wikipedia) 
+
+- 3.5 BYA - 520 MYA enkel prokaryote cellen 
+
+- Endosymbiosis
+
+![](./figs/endosymbiosis.svg)  
+(bron: Kelvinsong, wikipedia)
+
+Eukaryote cellen evolueren verder in 
+
+- protisten (eencelligen)
+- planten
+- dieren
+
+
+Genetische informatie van een soort kan ook worden gezien als een record van de milieus en ontwikkeling die ze heeft ondergaan tot dit punt. 
+
+---
+
+## Evolutie van evolutie
+
+1. Chemische evolutie: selectie van bouwblokken en complexe chemie
+2. Biologische evolutie: cel/organisme $\rightarrow$ selectie genetische informatie and functie 
+3. Culturele evolutie die natuurlijke evolutie soms bypassed: 
+    
+    - artificiële selectie: plantenveredeling, huisdieren/vee, genetische manipulatie, ...
+    - Technologie: snelle aanpassing aan nieuw milieu, adaptatie van milieu 
+    
+# Ontogenese 
+
+![](./figs/biologischeAspectenBiodanzaDeelIII.png){width=50%}
+
+- Ontogenese: ontwikkeling van een organisme van eicel tot overlijden van volwassen individu. 
+
+- Elke cel bevat zelfde erfelijk materiaal!
+
+![](./figs/DNA_methylation_reprogramming.png)  
+(bron: Mariuswalter, wikipedia)
+
+- Differentiatie $\rightarrow$ epigenetica 
+
+- Epigenetica: epigenetische merkers op DNA en histonen $\rightarrow$ gen kan worden afgelezen of niet.
+
+- Epigenetica wordt beïnvoeld door ecofactoren. 
+
+- Eeneiige tweelingen zelfde genoom, verschillen steeds meer gedurende het leven: epigenetica
+
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/instance/3501579/bin/nihms402187f3.jpg)  
+(Bron doi: 10.1111/j.1526-4637.2012.01488.x)
+
+- Epigenetica heel belangrijk bij ontwikkeling van het brein en leren
+
+- Wiring of the brain: 
+
+    - Erfelijk
+    - Random
+    - Ecofactoren selecteren en amplificeren verbindingen
+    - Verbindingen die niet worden gebruikt verdwijnen
+    - Communicatie (via alle zintuigen) is key bij ontwikkeling van kinderbrein
+
+
+- Vivencia werkt sterk in op brein. 
+
+- Langdurig beoefenenen van Biodanza kan epigenetica beïnvloeden en dus hoe genetisch potentieel wordt benut.
+
+- Onderzoek toonde aan dat ondermeer mind-body technieken (meditatie, qigong, tai chi, yoga) celverjonging kunnen induceren door activatie van het gen dat codeert voor teleomerase (Vb Boek The telomere effect (Jonger worden), Nobelprijs winnares Elizabeth Blackburn en Elissa Epel)
+
+# Slotopmerkingen 
+
+- Het leven is
+    - één
+    - chemie 
+    - informatie 
+  
+</br>  
+
+- Het leven is een obligate manifestatie van materie die is geschreven in het weefsel van de kosmos
+
+    - In de sterren onstonden de atomen van het leven 
+    - In het stof van de sterren werden deze omgezet tot essentiële moleculen en bouwblokken van het leven die alom aanwezig in de kosmos
+    - Onder de juiste condities structureren deze bouwblokken zich spontaan tot leven zoals we dat kennen 
+    - Vanuit de quantum mechanica en relativiteitstheorie zien we materie niet langer passief of inert maar          
+        
+        - als een vorm van energie 
+        - met een dynamische natuur
+        - op atomaire schaal en subatomaire schaal is er heel veel leegte waarin er een continue dans en pulserende beweging is van electronen, protonen, neutronen, atomen en moleculen 
+
+</br>  
+  
+- organismen en leven kan niet worden bestudeerd los van hun intieme relatie met hun milieu/ecosysteem
+
+    - moleculen werken niet alleen maar in grote netwerken
+    - omgevingscondities zijn belangrijk voor zelforganisatie
+    - selectieve evolutie: selectie door ecofactoren 
+    - organismen veranderen/shapen ook op hun beurt het milieu en ecofactoren: denk maar aan de cyanobacteriën 
+    - individuele evolutie: ecofactoren $\leftrightarrow$ epigenetica 
+    - ecofactoren worden ook bepaald door andere organismen: ecosysteem
+
+</br>  
+  
+$\rightarrow$ "Web of Life" 
