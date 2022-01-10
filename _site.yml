@@ -7,7 +7,7 @@ navbar:
     - text: "About"
       href: about.html
     - text: "Biodanza"
-      icon: fa-chalkboard-teacher
+      icon: fa-yin-yang
       menu:
         - text: "BiologischeAspecten"
           href: biologischeAspectenBiodanza.html
@@ -15,8 +15,7 @@ navbar:
   right:
     - icon: fab fa-github
       href: https://github.com/danzadellavida/danzadellavida.github.io
-    - text: "danzadellavida"
-      href: http://danzadellavida.github.io/
+
 output:
   html_document:
       code_download: true
