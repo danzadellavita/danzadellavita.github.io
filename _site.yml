@@ -1,6 +1,6 @@
-name: "Danza della Vida"
+name: "Danza della Vita"
 navbar:
-  title: "Danza della Vida"
+  title: "Danza della Vita"
   left:
     - icon: fa-home
       href: index.html
@@ -17,7 +17,7 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fab fa-github
-      href: https://github.com/danzadellavida/danzadellavida.github.io
+      href: https://github.com/danzadellavita/danzadellavita.github.io
 
 output:
   html_document:

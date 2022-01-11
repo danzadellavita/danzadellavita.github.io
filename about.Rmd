@@ -1,5 +1,5 @@
 ---
-title: "Danza della Vida"
+title: "Danza della Vita"
 output:
     html_document:
         code_download: false
@@ -8,7 +8,7 @@ output:
         code_folding: "none"
 ---
 
-Danza della Vida is opgericht door Fien Morel en Lieven Clement met het oog om Biodanza mee de wereld in te zetten in Brugge.
+Danza della Vita is opgericht door Fien Morel en Lieven Clement met het oog om Biodanza mee de wereld in te zetten in Brugge.
 
 ### Fien Morel 
 ```{r echo=FALSE,out.width="17%",out.extra='style="float:left; padding:10px"'}
