@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Systeem Biodanza</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<script src="site_libs/accessible-code-block-0.0.1/empty-anchor.js"></script>
+<link href="site_libs/pagedtable-1.1/css/pagedtable.css" rel="stylesheet" />
+<script src="site_libs/pagedtable-1.1/js/pagedtable.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Danza della Vida</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">
+    <span class="fa fa-home"></span>
+     
+  </a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Biodanza
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="biologischeAspectenBiodanza.html">Biologische Aspecten</a>
+    </li>
+  </ul>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="about.html">About</a>
+</li>
+<li>
+  <a href="https://github.com/danzadellavida/danzadellavida.github.io">
+    <span class="fab fa-github"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Systeem Biodanza</h1>
+
+</div>
+
+
+<p>Biodanza maakt gebruik van de kracht van muziek, dans en beweging in groep om tot een beleving (vivencia) te komen. Dat brengt positieve veranderingsprocessen op gang die door kunnen werken in ons dagdagelijkse leven. Jezelf en de ander ontmoeten staat in Biodanza centraal. Om tot een beleving te komen is het belangrijk dat we ons veilig voelen in de groep. We staan open voor elkaar zonder oordeel. Biodanza is Gym voor de emoties en</p>
+<ul>
+<li>laat ons opnieuw verbinden met onszelf, de anderen en het universum (menselijke integratie)</li>
+<li>het verbetert de algemene energie waardoor je cellen en je organisme wordt gestimuleerd om zich te vernieuwen (vernieuwing van het organisme)</li>
+<li>stimuleert ons om warmte en affectiviteit opnieuw in de wereld te zetten (affectieve heropvoeding), en,</li>
+<li>laat ons weer voeling krijgen met onze basisinstincten (oorspronkelijke manier van leven).</li>
+</ul>
+<div id="menselijke-integratie" class="section level3">
+<h3>Menselijke integratie</h3>
+<p>In ons moderne leven hebben we soms maar weinig voeling met alle leven dat ons omringt. Net alsof we de voeling met onze instincten wat verloren zijn. Een soort verzwakking ervan. Dat is anders bij de mens dan bij planten en dieren. De zonnebloem draait zijn hart naar het licht, De kat spint en rekt zich in het lang en breed uit, de spin weeft zijn web,… Wij mensen zetten vaak ons hoofd boven ons hart. Terwijl we ons hoofd mogen laten zakken in ons hart, zodat lichaam en geest één kunnen worden.</p>
+<p>In de Biodanza stimuleren we de verbondenheid met het leven. Het is een integratieproces van ons menselijke zijn die in gang wordt gezet. Je groeit in het terug verbinden met jezelf. Lichaam en geest komen in evenwicht en kunnen weer als één ervaren worden. Daarnaast is ook de verbinding met andere mensen heel belangrijk in de Biodanza. Wie we zijn kan pas geopenbaard worden door de ander. Die andere vertelt wie we zijn. Hoe oprechter dit gebeurt, hoe intenser we dat kunnen ervaren. De kracht van Biodanza zit in het wij , ik ben jij, ik ben deel van jouw. Elke oefening is in feite een voorbereiding op de ontmoeting. Ten slotte versterkt Biodanza ook de ervaring van jezelf als deel van een groter geheel. De band herstellen en voelen die ons verbindt met de natuur. Het universum. We zijn een schakel in het grote geheel. Alles maakt deel uit van een groter geheel. De mensen, dieren, planten, stenen, sterren, de oceaan… Alles wat leeft. En leven zit overal in. We zijn een eenheid, een hartenklop in het groter geheel.</p>
+<p>Het is fijn te mogen ervaren om terug contact te kunnen maken met alles dat is. Deze functies te kunnen herstellen. Want als we onszelf, de ander en de kosmos kunnen integreren, dan kunnen we pas voelen dat we echt leven. Op den duur kan je het ervaren als een echte levenshouding. Waardoor we weer in contact komen met onze oorsprong. We zijn samen onderweg te worden wie we in oorsprong zijn. We zijn een onafgewerkt gedicht. Dansen in groep kan het gedicht verrijken.</p>
+<p>Om dit alles te kunnen integreren is herhaling heel belangrijk. Fijn om samen in de wekelijkse bijeenkomst te kunnen oefenen, groeien en bloeien. Om samen het leven te dansen.</p>
+</div>
+<div id="vernieuwing-van-het-organisme" class="section level3">
+<h3>Vernieuwing van het organisme</h3>
+<p>Het samen functioneren kan best wel complex zijn. We zijn altijd maar op zoek naar oplossingen, passen ons aan om een evenwicht te ervaren. Dat is heel normaal. Oplossingen liggen er niet voor het grijpen, liggen niet zomaar vast. We hebben dan ook in zekere mate de keuze hoe we ons gedragen in een bepaalde situatie. Maar veranderingen en het zoeken van nieuwe evenwichten geeft ons vaak spanning, stress, is soms chaos,…</p>
+<p>Er zijn verschillende systemen om uit de chaos te raken…één daarvan is de liefde en Biodanza is net ontstaan uit nostalgie naar de liefde zegt Rolando Toro zelf. En dan kunnen we vanuit de chaos een nieuw evenwicht bereiken en ons vernieuwen.</p>
+<p>Die vernieuwing van onze cellen en ons volledige organisme wordt door Biodanza gestimuleerd door de zelfregulerende processen in ons lichaam te versterken. Door omgevingsfactoren ontstaan er bijvoorbeeld schommelingen in onze hormonen (honger, emoties door gebeurtenissen,…), onze zelf regulerende processen proberen daarin een evenwicht te vinden en te bewaren. Dat evenwicht is dynamisch met schommelingen binnen bepaalde grenzen die groei en vernieuwing stimuleren. Biodanza zorgt er ook voor dat stressfactoren teruggedrongen worden waardoor de zelfregulerende processen worden versterkt en de schommelingen zo verkleinen. Bijvoorbeeld als er iets gebeurt op je pad die je uit evenwicht brengt dan kunnen we onder stress volledig overspoelt raken. In situaties waarin je minder stress hebt en in contact bent met jezelf en met alles rondom je. Dan kan je eenzelfde gebeurtenis dikwijls beter dragen.</p>
+<p>Het vernieuwen van het organisme binnen Biodanza wordt gestimuleerd door oefeningen die ons terug naar de kindertijd brengen. Oefeningen die de lichamelijke omstandigheden uit de prille babytijd bij ons naar boven brengen. Zelfs tot terug in de baarmoeder. Je kan dan een diepe genegenheid voelen voor de persoon die je “containt”, je bescherming geeft. Je opent je voor een nieuwe levensstijl, je ontdekt nieuwe redenen om te leven. Je voelt dat angst en stress verminderen. Het naar boven halen van deze omstandigheden zorgt ervoor dat veel meer energie door het lichaam kan worden gespendeerd in de vernieuwing van het organisme waardoor het veel sneller herstelt.</p>
+</div>
+<div id="de-affectieve-heropvoeding" class="section level3">
+<h3>De affectieve heropvoeding</h3>
+<p>Biodanza vertrekt altijd vanuit warmte en genegenheid. Het belangrijkste doel in Biodanza is het stimuleren van de affectiviteit. Het is belangrijk om je in het hart van een ander te kunnen plaatsen. Biodanza kan je niet alleen beleven. Het is enkel mogelijk om tot een vivencia te komen samen met andere mensen. Een groep waar de veiligheid aanwezig is, er niet geoordeeld wordt. Een groep die affectief en geïntegreerd is. Om zo in alle veiligheid elkaar op verschillende manieren te kunnen ontmoeten, met elkaar via het lichaam te communiceren. Het Biodanza systeem staat open voor de gemeenschap. Er is een grote tolerantie voor de mensheid zoals die is, zonder discriminatie van ras, sekse, leeftijd. We staan open voor elkaar zonder oordeel. Iedereen mag zijn. Zonder masker of zonder een rol te spelen gaan we op ontdekking naar ons ware zijn. In het hier en nu. Een gemeenschap van verbondenheid. We kijken om ons heen en ontmoeten de ander in zijn zijn en ontmoeten via de ander terug onszelf. De lichamelijke ervaring is hier belangrijk, het geeft en ontvangt. Het is geen competitie. Anders ga je weg van je eigen schoonheid. Die warmte en genegenheid neem je uit de Biodanza sessies mee in het dagdagelijkse leven waardoor je ook van hieruit jezelf en je omgeving gaat transformeren.</p>
+</div>
+<div id="de-oorspronkelijke-manier-van-leven-opnieuw-leren" class="section level2">
+<h2>De oorspronkelijke manier van leven opnieuw leren</h2>
+<p>We verlangen allemaal naar harmonie in ons leven. Dat is eigen aan ons mens zijn. Maar als we harmonie wil ervaren is het belangrijk om je te verbinden met je instincten en daar trouw aan te zijn. We zijn dat wat verleerd. Het is belangrijk om er opnieuw gevoelig voor te worden. Instincten hoeven niet aangeleerd te worden. We zijn ermee geboren. Ze moeten dus enkel weer geactiveerd worden. Het oorspronkelijk doel van onze instincten is om ons aan te kunnen passen aan de omgeving wat belangrijk is om te kunnen overleven. Hoe minder we onze instincten nodig hebben, hoe meer dat de kracht ervan afneemt. Dat voelen we vaak in ons dagelijkse leven. Heel vaak weten we het niet, voelen we niet, wat er ons te doen staat. Het westen heeft een scheiding gemaakt tussen lichaam en geest waardoor we de boodschappen van het lichaam niet kunnen beluisteren…vaak tot we pijn hebben. De weg om terug bewust voor onze instincten open te staan is belangrijker dan het doel. Je gaat je hoofd niet uitschakelen maar je hoofd selectief gebruiken. Dan kan je de controle loslaten en voelen dat het leven stroomt als een rivier. Deze aangeboren impulsen gebruiken als onderdeel van je levensstijl, is een natuurlijke manier om op harmonische wijze om te gaan met je lichamelijke behoeften en zo je gezondheid te behouden. De instincten vertegenwoordigen de natuur in ons. Als we hier gevoeliger voor worden dan herstellen we de band tussen natuur en cultuur. In Biodanza omarmen we het idee dat onze gezondheid verbonden is met de bron van het leven. Het stimuleert moed en plezier in het leven om binnen een affectief geïntegreerde groep de ontwikkeling van de oorspronkelijke manier van leven, opnieuw te leren.</p>
+<p><a href="http://www.n-zicht.be/wekelijkse-groep-biodanza/">Wekelijkse Groep Biodanza</a></p>
+<p><a href="./getuigenissen.html">Getuigenissen</a></p>
+</div>
+
+<div class="footer">
+    <hr>
+    This work is licensed under the <a href= "https://creativecommons.org/licenses/by-nc-sa/4.0">
+    CC BY-NC-SA 4.0</a> licence.
+</div>
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
