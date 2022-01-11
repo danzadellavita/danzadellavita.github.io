@@ -11,7 +11,7 @@ navbar:
         - text: "Biologische Aspecten"
           href: biologischeAspectenBiodanza.html
         - text: "Getuigenissen"
-          href: getuigenissen.Rmd
+          href: getuigenissen.html
 
   right:
     - text: "About"
