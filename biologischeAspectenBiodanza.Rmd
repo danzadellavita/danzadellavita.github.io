@@ -1,5 +1,5 @@
 ---
-title: "Biologische aspecten van Biodanza"
+title: "Biologische Aspecten van Biodanza"
 author: "Lieven Clement"
 date: "[Danza della Vita](https://danzadellavita.github.io) & [statOmics](https://statomics.github.io)"
 output:
@@ -15,7 +15,7 @@ output:
 
 Slides voor Weekend 4 "Biologische Aspecten van Biodanza" in de [Biodanza opleiding Antwerpen](https://www.biodanzaschoolantwerpen.be/biodanza-opleiding)
 
-# Biocentrisch principe 
+# Biocentrisch Principe 
 
 De theorie van Biodanza heeft Rolando geënt op zijn axioma: ‘biocentrisch principe’. 
 
@@ -38,7 +38,7 @@ $\rightarrow$ Leven is intrensiek sacraal en hoort dus in het hart te liggen van
   
 </br>  
 
-## Inspiratie bij 3 nobelprijs winnaars
+## Inspiratie bij 3 Nobelprijs Winnaars
 
 - Erwin Schrödinger: "order-from-disorder" 
 - Ilia Prigogine: "Dissipatieve structuren" 
@@ -46,7 +46,7 @@ $\rightarrow$ Leven is intrensiek sacraal en hoort dus in het hart te liggen van
 
 </br>  
 
-# Biologische aspecten van de biodanza 
+# Biologische Aspecten van de Biodanza 
 
 ![](./figs/biodanzaModel.png){width=50%}
 
@@ -56,7 +56,7 @@ $\rightarrow$ Leven is intrensiek sacraal en hoort dus in het hart te liggen van
   
 </br>  
 
-# Wat is leven?
+# Wat is Leven?
 
 ## Schrödinger en Prigogine
 
@@ -64,19 +64,25 @@ Boek: "What Is Life? The Physical Aspect of the Living Cell" (Schrödinger, 1944
 
 Het leven is 
 
-1. een open systeem dat orde kan creeëren uit chaos door externe energie bronnen uit te buiten: negatieve entropie (entropie is wanorde)
+1. een open systeem dat orde kan creeëren uit chaos door externe energie bronnen uit te buiten: negatieve entropie (entropie is wanorde),
 
-2. met de capaciteit om zijn eigen specifieke blauwdruk door te geven van generatie op generatie (reproductieve invariantie) 
+2. met de capaciteit om zijn eigen specifieke blauwdruk door te geven van generatie op generatie (reproductieve invariantie). 
 
 Merk op dat DNA in de tijd van Schrödinger nog niet is gekend.
-  
+
+
 </br>  
 
 ### Hoe kan dit? 
 
 - Tweede hoofdwet van de thermodynamica: een gesloten systeem streeft steeds naar maximale entropie
 
-- Entropie is wanorde
+- Entropie is graad wanorde
+
+<center>![](https://www.handysquad.com/wp-content/uploads/2020/10/tie-up-cables.jpg){width=30%} $\rightarrow$ ![](https://eadn-wc05-201489.nxedge.io/cdn/wp-content/uploads/2018/09/EntropyChaos2-700-467.jpg){width=30%}
+</center>
+
+</br>
 
 - Leven is 
     
@@ -86,7 +92,7 @@ Merk op dat DNA in de tijd van Schrödinger nog niet is gekend.
     - chaos van moleculen op aarde 
     - Tijdens de chemische reacties die structuur geven wordt ook veel energie verloren in warmte: dissipatie 
 
-$\rightarrow$ toename van entropie
+$\rightarrow$ Toename van entropie
 
 </br>
 
@@ -101,13 +107,16 @@ Boek: "Life Evolving - Molecules, Mind and Meaning" (de Duve, 2002)
 
 Het Leven is 
 
-1. Één
-2. Chemie
-3. Informatie 
+1. één
+2. chemie
+3. informatie 
 
 </br>  
 
-Ontstaan van leven: eerst energie, dan chemie en daarna informatie. 
+Ontstaan van leven:
+- eerst energie
+- vervolgens chemie en 
+- daarna informatie 
 
 </br>  
 
@@ -133,7 +142,7 @@ Ontstaan van leven: eerst energie, dan chemie en daarna informatie.
 
 </br>  
 
-#### LUCA (last universal common ancestor).
+#### LUCA (last Universal Common Ancestor).
 
 - Alle cellen komen voort uit een gemeenschappelijke populatie voorouderlijke cellen.  
 
@@ -158,7 +167,7 @@ Ontstaan van leven: eerst energie, dan chemie en daarna informatie.
 1. Lipiden (vetachtige substanties): membranen afscheiding
 2. Koolhydraten (suikers): energie + bouwblok
 3. Aminozuren: basisbouwblokken van eiwitten de werkpaarden van een cel
-4. nucleine-zuren: basisbouwblokken van RNA en DNA
+4. Nucleine-zuren: basisbouwblokken van RNA en DNA
 
 </br>  
 
@@ -182,7 +191,7 @@ Ontstaan van leven: eerst energie, dan chemie en daarna informatie.
     
 ##### Nucleïne zuren
 
-- bouwblokken voor dragers van erfelijk materiaal RNA en DNA
+- Bouwblokken voor dragers van erfelijk materiaal RNA en DNA
 
 
 ![](./figs/RNA-Nucleobases.svg){width=50%}  
@@ -239,11 +248,10 @@ allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></if
 
 - Enzymes zijn eiwitten die 
   
-  - vissen de molecules het complex mengsel van de cel, 
+  - de bepaalde molecules vissen uit het complex mengsel van de cel, 
   - dat uit duizenden verbindingen bestaan,
-  - meestal met een lage concentratie.
-  - Via bindingssites brengen ze de nodige moleculen, substraten samen, 
-  - zodat deze kunnen reageren en een nieuwe verbinding kunnen vormen. 
+  - en dat meestal met een lage concentratie;
+  - d.m.v. bindingssites die deze moleculen (ook substraten genoemd) samenbrengen in 3D zodat deze kunnen reageren en een nieuwe verbinding kunnen vormen. 
 
 </br>  
 
@@ -282,7 +290,7 @@ Een cel erft van de moedercel niet alleen erfelijk materiaal maar ook spatiale o
 
 </br>  
 
-### Het Leven is Informatie
+### Het Leven is informatie
 
 ![](./figs/Difference_DNA_RNA-EN.svg){width=50%}  
 (bron: Sponk, wikipedia)
@@ -313,7 +321,7 @@ Een cel erft van de moedercel niet alleen erfelijk materiaal maar ook spatiale o
 
 - Code is zo geëvolueerd dat veel mutaties leiden tot synonieme codons of tot inbouwen van aminozuur dat niet erg sterk verschillend is $\rightarrow$ eiwit functie blijft behouden
 
-- gen: basiseenheid van erfelijk materiaal, een DNA sequentie die codeert voor de synthese van een gen product, een eiwit of een functioneel RNA. 
+- Gen: basiseenheid van erfelijk materiaal, een DNA sequentie die codeert voor de synthese van een gen product, een eiwit of een functioneel RNA. 
 
 ![](./figs/gene.svg)
 (bron: Thomas Shafee, wikipedia)
@@ -324,8 +332,8 @@ Een cel erft van de moedercel niet alleen erfelijk materiaal maar ook spatiale o
 
 - RNA speelt een meer centrale rol:
 
-    - messenger RNA (te vergelijken met werkgeheugen van een cel)
-    - ribozymen: katalitische functie 
+    - Messenger RNA (te vergelijken met werkgeheugen van een cel)
+    - Ribozymen: katalitische functie 
         - transfer RNA bij translatie tot eiwitten
         - in ribosomen bij translatie tot eiwitten 
         - nog vele andere rybozymen
@@ -334,7 +342,7 @@ Een cel erft van de moedercel niet alleen erfelijk materiaal maar ook spatiale o
 
 </br>  
 
-# Principes van het kosmische leven en genese van het leven
+# Principes van het Kosmische Leven en Genese van het Leven
 
 ![](./figs/biologischeAspectenBiodanzaDeelI.png){width=50%}
 </br>  
@@ -425,7 +433,7 @@ $\rightarrow$ eerste stap naar aminozuren (bouwblokken eiwitten) en nucleotiden 
 
 </br>  
 
-## Onstaan van het zonnestelsel en de genese van het leven
+## Ontstaan van het zonnestelsel en de genese van het leven
 
 ![](https://images.squarespace-cdn.com/content/v1/53a0be00e4b014ec3a93a9c2/1532093625692-46R36V6GTGL49HJV934P/Twombly-SciAm-Origins_match.jpg)  
 (Author: Matthew Twombly)
@@ -526,7 +534,7 @@ $\rightarrow$ Natuurlijke variabiliteit
 
 ### Horizontale genuitwisseling
 
-- niet sexuele uitwisseling van genetische informatie
+- Niet sexuele uitwisseling van genetische informatie
 - Komt veelvuldig voor tussen prokaryoten (eubacteria en arachae bacteria) vb uitwisseling resistentie tegen antibiotica, maar ook in eukaryoten (vooral protisten, eencellige organismen met celkern) en tussen prokaryoten en eukaryoten (protisten, planten en dieren)
 
 </br>  
@@ -568,9 +576,9 @@ $\rightarrow$ Natuurlijke variabiliteit
 - Wel heel grote foutenmarge op bacteriën (kan factor 10 hoger zijn). 
 
 - Aantal bacteriële cellen in ons lichaam (bron: doi.org/10.1371/journal.pbio.1002533): 
-  - \#bacterial cellen/\#menselijke cellen vroeger geschat op$\pm$ 10/1 
+  - \#bacteriële cellen/\#menselijke cellen vroeger geschat op$\pm$ 10/1 
   - recente schatting $\pm$ 1/1. 
-  - Mens van 70kg $\pm$ 38 biljoen bacteria/30 biljoen humane cellen (biljoen: 1000 miljard).
+  - Mens van 70kg $\pm$ 38 biljoen bacteriële cellen/30 biljoen humane cellen (biljoen: 1000 miljard).
 
 
 </br>  
@@ -585,6 +593,8 @@ Ontstaan van alle soorten door evolutie
 - Het ontstaan van soorten en aanpassing aan het milieu noemt Rolando ook evolutionaire differentiatie. 
 
 </br>  
+
+### Tijdschaal
 
 ![](https://naturedocumentaries.org/wp-content/uploads/2017/12/liferockystartstrip.jpg)
 
@@ -649,7 +659,7 @@ Eukaryote cellen evolueren verder in
 
 </br>  
 
-Genetische informatie van een soort kan ook worden gezien als een record van de milieus en ontwikkeling die ze heeft ondergaan tot dit punt. 
+Genetische informatie van een soort kan ook worden gezien als de "record" van de milieus en ontwikkeling die ze heeft ondergaan tot dit punt. 
 
 </br>  
 
@@ -723,7 +733,7 @@ Genetische informatie van een soort kan ook worden gezien als een record van de 
 
 - Het leven is een obligate manifestatie van materie die is geschreven in het weefsel van de kosmos (Christian de Duve)
 
-    - In de sterren onstonden de atomen van het leven 
+    - In de sterren ontstonden de atomen van het leven 
     - In het stof van de sterren werden deze omgezet tot essentiële moleculen en bouwblokken van het leven die alom aanwezig in de kosmos
     - Onder de juiste condities structureren deze bouwblokken zich spontaan tot leven zoals we dat kennen 
     - Eerst was er energie, toen kwam chemie en daarna informatie: samen zijn ze het leven
@@ -735,7 +745,7 @@ Genetische informatie van een soort kan ook worden gezien als een record van de 
 
 </br>  
   
-- organismen en leven kan niet worden bestudeerd los van hun intieme relatie met hun milieu/ecosysteem
+- Organismen en leven kan niet worden bestudeerd los van hun intieme relatie met hun milieu/ecosysteem
 
     - moleculen werken niet alleen maar in grote netwerken
     - omgevingscondities zijn belangrijk voor zelforganisatie
