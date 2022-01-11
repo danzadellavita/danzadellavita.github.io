@@ -31,3 +31,7 @@ body {
 .tocify-extend-page {
     height: 60px !important;
 }
+
+a:link {
+color: #AD441F;
+}
