@@ -1,16 +1,19 @@
 ---
 title: "Biologische aspecten van Biodanza"
 author: "Lieven Clement"
-date: "statOmics, Ghent University (https://statomics.github.io)"
+date: "[Danza della Vida](https://danzadellavida.github.io) & [statOmics](https://statomics.github.io)"
 output:
     html_document:
       code_download: true
-      theme: cosmo
       toc: true
       toc_float: true
       highlight: tango
       number_sections: true
 ---
+
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+
+Slides voor Weekend 4 "Biologische Aspecten van Biodanza" in de [Biodanza opleiding Antwerpen](https://www.biodanzaschoolantwerpen.be/biodanza-opleiding)
 
 # Biocentrisch principe 
 
@@ -560,14 +563,15 @@ Genetische informatie van een soort kan ook worden gezien als een record van de 
     - één
     - chemie 
     - informatie 
-  
+
 </br>  
 
-- Het leven is een obligate manifestatie van materie die is geschreven in het weefsel van de kosmos
+- Het leven is een obligate manifestatie van materie die is geschreven in het weefsel van de kosmos (Christian de Duve)
 
     - In de sterren onstonden de atomen van het leven 
     - In het stof van de sterren werden deze omgezet tot essentiële moleculen en bouwblokken van het leven die alom aanwezig in de kosmos
     - Onder de juiste condities structureren deze bouwblokken zich spontaan tot leven zoals we dat kennen 
+    - Eerst was er energie, toen kwam chemie en daarna informatie: het leven
     - Vanuit de quantum mechanica en relativiteitstheorie zien we materie niet langer passief of inert maar          
         
         - als een vorm van energie 
