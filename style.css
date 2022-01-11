@@ -35,3 +35,15 @@ body {
 a:link {
 color: #AD441F;
 }
+
+/* visited link */
+a:visited {
+/*  color: #58B99D; */
+color: #AD441F;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
