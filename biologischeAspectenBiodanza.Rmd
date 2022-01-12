@@ -1,5 +1,5 @@
 ---
-title: "Biologische Aspecten van Biodanza"
+title: "Gastles: Biologische Aspecten van Biodanza"
 author: "Lieven Clement"
 date: "[Danza della Vita](https://danzadellavita.github.io) & [statOmics](https://statomics.github.io)"
 output:
@@ -27,6 +27,7 @@ Het universum is
  
 
 $\rightarrow$ Uitnodiging om je relatie als menselijk wezen tot de hele biosfeer grondig te herdenken  
+
 $\rightarrow$ Leven is intrensiek sacraal en hoort dus in het hart te liggen van levensbeschouwing/wereldbeeld  
 
 </br>  
@@ -114,6 +115,7 @@ Het Leven is
 </br>  
 
 Ontstaan van leven:
+
 - eerst energie
 - vervolgens chemie en 
 - daarna informatie 
@@ -292,6 +294,16 @@ Een cel erft van de moedercel niet alleen erfelijk materiaal maar ook spatiale o
 
 ### Het Leven is informatie
 
+- Gen: basiseenheid van erfelijk materiaal, een DNA sequentie die codeert voor de synthese van een gen product, een eiwit of een functioneel RNA. 
+
+![](./figs/gene.svg)
+(bron: Thomas Shafee, wikipedia)
+
+</br>
+
+- DNA: 4 letter code (4 basen: ACGT)
+- RNA: 4 letter code (4 basen: ACGU)
+
 ![](./figs/Difference_DNA_RNA-EN.svg){width=50%}  
 (bron: Sponk, wikipedia)
 
@@ -303,8 +315,6 @@ Een cel erft van de moedercel niet alleen erfelijk materiaal maar ook spatiale o
 </br>  
 
 - Principe: hybridisatie van complementaire basen! 
-- DNA: 4 letter code (4 basen: ACGT)
-- RNA: 4 letter code (4 basen: ACGU)
 - Transport RNA: codon (triplet van 3 basen) per aminozuur die wordt aangebracht
 
 </br>  
@@ -319,12 +329,12 @@ Een cel erft van de moedercel niet alleen erfelijk materiaal maar ook spatiale o
 
 </br>  
 
-- Code is zo geëvolueerd dat veel mutaties leiden tot synonieme codons of tot inbouwen van aminozuur dat niet erg sterk verschillend is $\rightarrow$ eiwit functie blijft behouden
+- Code is zo geëvolueerd dat veel mutaties leiden tot 
 
-- Gen: basiseenheid van erfelijk materiaal, een DNA sequentie die codeert voor de synthese van een gen product, een eiwit of een functioneel RNA. 
+  - synonieme codons (zelfde aminozuur) of 
+  - tot inbouwen van aminozuur dat niet erg sterk verschillend is 
+  $\rightarrow$ eiwit functie blijft behouden
 
-![](./figs/gene.svg)
-(bron: Thomas Shafee, wikipedia)
 
 </br>  
 
@@ -481,7 +491,7 @@ RNA
 
 - Foutenmarge bij DNA  replicatie: 1 fout per miljard baseparen die wordt gekopieerd
 - Inserties/deleties: baseparen die worden toegevoegd of verwijderd
-- Recombinatie: grote stukken DNA die van plaats worden gewisseld 
+- Recombinatie: herschikking van genetische eigenschappen, bijvoorbeeld bij geslachtelijke voortplanting (andere combinatie van genen dan beide ouders)
 
 $\rightarrow$ Mutaties  
 $\rightarrow$ Natuurlijke variabiliteit
@@ -535,14 +545,23 @@ $\rightarrow$ Natuurlijke variabiliteit
 ### Horizontale genuitwisseling
 
 - Niet sexuele uitwisseling van genetische informatie
-- Komt veelvuldig voor tussen prokaryoten (eubacteria en arachae bacteria) vb uitwisseling resistentie tegen antibiotica, maar ook in eukaryoten (vooral protisten, eencellige organismen met celkern) en tussen prokaryoten en eukaryoten (protisten, planten en dieren)
+
+- Veelvuldig tussen prokaryoten (eubacteria en arachae bacteria) 
+
+  - vb uitwisseling resistentie tegen antibiotica
+
+- tussen eukaryoten (vooral protisten, eencellige organismen met celkern)  
+
+- tussen prokaryoten (eubacteria en arachae bacteria) en eukaryoten (protisten, planten en dieren)
 
 </br>  
 
-### Teleonomy
+### Teleonomie
 
 - Er is enkel het unieke primitieve doel van behoud en reproductie van de soort.
+
 - Evolutie heeft verder geen doel of richting 
+
 - Bij het ontstaan van complexe organen en organismen kan het lijken alsof er een richting is/alsof die met een doel zijn ontstaan, maar dat is er niet. 
 
 </br>  
@@ -553,8 +572,11 @@ $\rightarrow$ Natuurlijke variabiliteit
 </br>  
 
 - Een oog is niet door de evolutie ontwikkeld met het doel om te zien. 
+
 - Het oog heeft enkel de functie om te zien
+
 - Het is het resultaat van een gradueel proces waarbij elke aanpassing weer reproductief voordeel gaf in dat bepaald milieu. 
+
 - In een andere omgeving kan het niet langer nuttig zijn, bv mol en verdwijnt de functie weer
     
 - Het ontstaan van een soort is het resultaat van evolutie, maar niet het doel van evolutie. 
@@ -605,22 +627,27 @@ Ontstaan van alle soorten door evolutie
 (bron: naturedocumetaries.org)
 
 
-- Black earth (4.5 BYA): heet basalt gesteente en stof in koud vacuum
-- Grey earth (4.3 BYA): graniet
-- Blue earth (3.8 BYA): water
-- Red earth (3.5 BYA): Radicale verandering door leven. 
+- Black Earth (4.5 BYA): heet basalt gesteente en stof in koud vacuum
+
+- Grey Earth (4.3 BYA): graniet
+
+- Blue Earth (3.8 BYA): water
+
+- Red Earth (3.5 BYA): Radicale verandering door leven. 
 
     - Cyanobacteria die fotosynthese doen. 
     - Zuurstof. 
     - Alle ijzer in oceaan precipiteert als roest (rood). 
     - Van 250 $\rightarrow$ > 5000 mineralen. 
     - Massale uitsterfte van leven. 
-
+  
+  
 - White Earth (540 MYA)
     - Grote ijstijd
     - Massale uitsterfte van leven
     - Vulcanische activiteit was redding: broeikasgassen
-
+  
+  
 - Green Earth (520 MYA)
     
     - Explosie leven 
@@ -651,15 +678,26 @@ Genese van Eukaryote cel door endosymbiosis:
 
 </br>  
 
-Eukaryote cellen evolueren verder in 
-
-- protisten (eencelligen)
-- planten
-- dieren
+- Prokaryoten: reproductie door celdeling, mutatie gefixeerd in alle dochtercellen 
 
 </br>  
 
-Genetische informatie van een soort kan ook worden gezien als de "record" van de milieus en ontwikkeling die ze heeft ondergaan tot dit punt. 
+- Eukaryoten: bijnal allemaal een fase met sexuele reproductie
+  
+  - veel meer variatie: recombinatie van chromosomen 
+  - bij diploide organismen zijn er twee kopieën van elk gen (vader en moeder) $\rightarrow$ opeenvolgende mutaties van 1 kopie mogelijk terwijl nog een andere functionele kopie is van het gen. 
+
+</br>  
+  
+- Eukaryote cellen evolueren verder in 
+
+  - protisten (eencelligen)
+  - planten
+  - dieren
+
+</br>  
+
+Genetische informatie van een soort kan ook worden gezien als een soort "logboek" van de milieus en ontwikkeling die ze heeft ondergaan tot dit punt. 
 
 </br>  
 
@@ -734,14 +772,21 @@ Genetische informatie van een soort kan ook worden gezien als de "record" van de
 - Het leven is een obligate manifestatie van materie die is geschreven in het weefsel van de kosmos (Christian de Duve)
 
     - In de sterren ontstonden de atomen van het leven 
+    
     - In het stof van de sterren werden deze omgezet tot essentiële moleculen en bouwblokken van het leven die alom aanwezig in de kosmos
+    
     - Onder de juiste condities structureren deze bouwblokken zich spontaan tot leven zoals we dat kennen 
+    
     - Eerst was er energie, toen kwam chemie en daarna informatie: samen zijn ze het leven
+    
     - Vanuit de quantum mechanica en relativiteitstheorie zien we materie niet langer passief of inert maar          
         
         - als een vorm van energie 
         - met een dynamische natuur
         - op atomaire schaal en subatomaire schaal is er heel veel leegte waarin er een continue dans en pulserende beweging is van electronen, protonen, neutronen, atomen en moleculen 
+    
+    - Dualisme (materie, ziel) $\rightarrow$ monoisme (materie)
+
 
 </br>  
   
