@@ -8,7 +8,7 @@ navbar:
       menu:
         - text: "Systeem Biodanza"
           href: systeemBiodanza.html
-        - text: "Biologische Aspecten"
+        - text: "Gastles: Biologische Aspecten"
           href: biologischeAspectenBiodanza.html
         - text: "Getuigenissen"
           href: getuigenissen.html
