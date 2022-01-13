@@ -1,6 +1,6 @@
-name: "Danza della Vita"
+name: "Biodanza Brugge"
 navbar:
-  title: "Danza della Vita"
+  title: "Biodanza Brugge"
   left:
     - icon: fa-home
       href: index.html
