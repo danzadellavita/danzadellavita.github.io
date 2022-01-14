@@ -1,5 +1,5 @@
 ---
-title: "Biologische Aspecten van Biodanza, gastles in Biodanza Opleiding Antwerpen"
+title: "Biologische Aspecten van Biodanza, Gastles in Biodanza Opleiding Antwerpen"
 author: "Lieven Clement"
 date: "[Biodanza Brugge](https://biodanzabrugge.be) & [statOmics](https://statomics.github.io)"
 output:
@@ -13,7 +13,7 @@ output:
 
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
-Slides voor Weekend 4 "Biologische Aspecten van Biodanza", 15/01/2022-16/01/2022 in de [Biodanza opleiding Antwerpen](https://www.biodanzaschoolantwerpen.be/biodanza-opleiding)
+Slides voor Weekend 4 "Biologische Aspecten van Biodanza", 15/01/2022-16/01/2022, in de [Biodanza opleiding Antwerpen](https://www.biodanzaschoolantwerpen.be/biodanza-opleiding)
 
 # Biocentrisch Principe 
 
