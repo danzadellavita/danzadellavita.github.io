@@ -812,3 +812,9 @@ Genetische informatie van een soort kan ook worden gezien als een soort "logboek
 
 - Met Biodanza kunnen we de ontogenese beïnvloeden of 
 - Hoe onze genen worden gebruikt in onze cellen!
+
+</br>
+
+<center>
+![](./figs/biodanzaModel.png){width=50%}
+</center>
