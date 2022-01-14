@@ -5,16 +5,17 @@ navbar:
     - icon: fa-home
       href: index.html
     - text: "Activiteiten"
-      menu:
-        - text: "Wekelijkse Groep"
-          href: activiteiten.html
-        - text: "Gastles: Biologische Aspecten"
-          href: biologischeAspectenBiodanza.html
+      href: activiteiten.html
     - text: "Getuigenissen"
       href: getuigenissen.html
   right:
     - text: "Systeem Biodanza"
-      href: systeemBiodanza.html
+      menu:
+        - text: "Systeem Biodanza"
+          href: systeemBiodanza.html
+        - text: "Gastles: Biologische Aspecten"
+          href: biologischeAspectenBiodanza.html
+
     - text: "Info & Contact"
       menu:
         - text: "Fien & Lieven"
