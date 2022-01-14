@@ -7,11 +7,15 @@ output:
         number_sections: false
         code_folding: "none"
 ---
-
 </br> 
 <center>
-![](./figs/pastelBiodanza.jpg){width=75%}
+![](./figs/pastelBiodanzaSmall.jpg)
 </center>
+
+</br>
+
+<center>***</center>
+
 </br> 
 
 "Dansen met Fien is als thuiskomen in een warm nest"
@@ -26,6 +30,7 @@ Lieve
 <center>***</center>
 
 </br>
+
 
 "Wat was me dat weer een fantastische les!  
 Ik heb op een paar minuten tijd kunnen groeien uit een dissociatie naar echt voelen en neerzetten van innerlijke kracht, me tonen...  

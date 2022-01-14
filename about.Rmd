@@ -8,6 +8,8 @@ output:
         code_folding: "none"
 ---
 
+</br>
+
 Biodanza Brugge is opgericht door Fien Morel en Lieven Clement met het oog om Biodanza mee de wereld in te zetten in Brugge.
 
 ### Fien Morel 
@@ -31,7 +33,10 @@ Ik geef les in BUSO Ravelijn en begeleid jongeren met een mentale beperking via 
 knitr::include_graphics("./figs/lieven.jpg")
 ```
 
- Ik ben getrouwd met Fien, vader van 3 kinderen en werk als Professor in Statistische Genomica aan de [Universiteit Gent](https://www.ugent.be) waar ik de [statOmics](https://statomics.github.io/) groep leid. Mijn groep focust zich op de ontwikkeling van statistische methoden en open source tools voor differentiële transcriptomics en proteomics data analyse waarbij we respectievelijk genen en eiwitten wensen te vinden die anders tot expressie komen tussen groepen van planten, dieren of mensen (b.v. man $\leftrightarrow$ vrouw, ziek $\leftrightarrow$ gezond, en ook meer complexe vergelijkingen). 
+ Ik ben getrouwd met Fien, vader van 3 kinderen en werk als Professor in Statistische Genomica aan de [Universiteit Gent](https://www.ugent.be) waar ik de [statOmics](https://statomics.github.io/) groep leid. Mijn groep focust zich op de ontwikkeling van statistische methoden en open source tools voor differentiële transcriptomics en proteomics data analyse waarbij we respectievelijk genen en eiwitten wensen te vinden die anders tot expressie komen tussen groepen van planten, dieren of mensen (b.v. man $\leftrightarrow$ vrouw, ziek $\leftrightarrow$ gezond, en ook meer complexe vergelijkingen).  
+ 
 Mijn leef- en groeitraject wordt gestuurd door mijn gezin, mijn passie voor wetenschappen en het lopen van de work-life balans.
-Als gepassioneerde hoofdmens is het een uitdaging om geaard te blijven en ook mijn lichaam voeding te geven. En met Fien is Biodanza zomaar mijn leven binnengewandeld. Sinds 2018 neem ik deel aan een wekelijkse Biodanza groep en dat heeft me terug laten aankomen bij mezelf in het hier en nu. Het is een lab waarin ik mag oefenen in afstemmen, met mezelf, met de ander en met het groter geheel. Toen ik me wat meer in Biodanza ben gaan verdiepen, mocht ik ontdekken dat het een systeem is dat gestoeld is op een sterke wetenschappelijke basis. Het liet mijn passie voor het voelen, emoties, muziek en wetenschap voor het eerst samenkomen. Met Biodanza komen hoofd en hart helemaal samen. In 2020 ben ik dan ook met veel passie gestart met de Biodanza opleiding aan de [Biodanza school Antwerpen](https://www.biodanzaschoolantwerpen.be/). 
+Als gepassioneerde hoofdmens is het een uitdaging om geaard te blijven en ook mijn lichaam voeding te geven. En met Fien is Biodanza zomaar mijn leven binnengewandeld.  
+
+Sinds 2021 neem ik deel aan een wekelijkse Biodanza groep en dat heeft me terug laten aankomen bij mezelf in het hier en nu. Het is een lab waarin ik mag oefenen in afstemmen, met mezelf, met de ander en met het groter geheel. Toen ik me wat meer in Biodanza ben gaan verdiepen, mocht ik ontdekken dat het een systeem is dat gestoeld is op een sterke wetenschappelijke basis. Het liet mijn passie voor het voelen, emoties, muziek en wetenschap voor het eerst samenkomen. Met Biodanza komen hoofd en hart helemaal samen. In 2021 ben ik dan ook met veel passie gestart met de Biodanza opleiding aan de [Biodanza school Antwerpen](https://www.biodanzaschoolantwerpen.be/). 
 

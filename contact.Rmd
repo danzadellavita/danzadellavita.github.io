@@ -30,8 +30,8 @@ mail: [info@n-zicht.be](mailto:info@n-zicht.be)
 ```{r echo=FALSE,out.width="17%",out.extra='style="float:left; padding:10px"'}
 knitr::include_graphics("./figs/lieven.jpg")
 ```
-</br>
-</br>
+  
+  
 Professor of Statistical Genomics  
 Veldstraat 39, 8200 Sint-Michiels (Brugge)  
 GSM: +32 486 62 53 96  
