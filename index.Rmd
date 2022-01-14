@@ -32,3 +32,9 @@ Het systeem Biodanza werd gecreëerd door Rolando Toro Araneda uit Chili, voorma
 [Wekelijkse Groep Biodanza](./activiteiten.html)  
 
 [Getuigenissen](./getuigenissen.html)
+
+</br>
+
+<center>
+![](./figs/logoOnderSupervisie.png){width=50%}
+</center>
