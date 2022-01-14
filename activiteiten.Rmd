@@ -1,0 +1,63 @@
+---
+title: "Activiteiten"
+output:
+    html_document:
+        code_download: false
+        toc: false
+        number_sections: false
+        code_folding: "none"
+---
+
+</br> 
+
+![](./figs/2022-Biodanza-flyerWebsite.png)  
+
+</br>
+Biodanza is een pad naar de vreugde in het leven  
+en maakt gebruik van de kracht van  
+muziek, dans en beweging in groep  
+om tot een beleving (vivencia) te komen.  
+
+In de wekelijkse Biodanza groep dansen we en verbinden we met onszelf, de anderen en het groter geheel.   
+We doen dat in een veilige groep waar we open staan voor elkaar zonder oordeel.
+
+Je hebt helemaal geen bewegingservaring nodig.
+
+Voel je het verlangen om te dansen en te bewegen vanuit jouw krachtige, speelse, gevoelige, nood-aan-verbindende zijn? Warm welkom!
+
+Enkele getuigenissen vind je [hier](getuigenissen.html)
+
+</br>
+
+### Reeksen
+
+- Voorjaar reeks: 12/01, 19/01, 26/01, 2/09, 9/02, 16/02, 23/02, 9/03, 16/03, 23/03/2022  
+
+- Lentereeks: 20/04, 27/04, 04/05, 11/05, 18/05, 25/05, 01/06, 08/06, 15/06, 22/06/2022
+
+- Najaarreeks: Data volgen later
+
+</br>
+
+### Investering
+  
+  - 10-beurtenkaart €150
+  - 3-beurtenkaart (in dezelfde reeks) €50
+  - Instromen kan, neem je even contact op? [info@n-zicht.be](mailto:info@n-zicht.be) 
+
+</br>
+
+### Waar? 
+
+Centrum Xaverianen,  
+Polyvalente zaal A  
+Xaverianenstraat 3,  
+8200 Sint-Michiels
+
+![](https://www.brugge.be/files/uploads/imagecache/Origineel/images/news/xaverianen_ingang.jpg){width=40%}
+
+</br>
+
+### Inschrijven 3 en 10-beurtenkaart 
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd2dkSJv37Rs-5_Hu0SLuAw2dsyyqJxzkj5zpcEtANVAFqH1g/viewform?embedded=true" width="640" height="808" frameborder="0" marginwidth="0" marginheight="0">Laden…</iframe>

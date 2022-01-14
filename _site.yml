@@ -5,19 +5,22 @@ navbar:
     - icon: fa-home
       href: index.html
     - text: "Biodanza"
+      href: systeemBiodanza.html
+    - text: "Activiteiten"
       menu:
-        - text: "Systeem Biodanza"
-          href: systeemBiodanza.html
+        - text: "Wekelijkse Groep"
+          href: activiteiten.html
         - text: "Gastles: Biologische Aspecten"
           href: biologischeAspectenBiodanza.html
-        - text: "Getuigenissen"
-          href: getuigenissen.html
-
   right:
-    - text: "About"
-      href: about.html
-    - icon: fab fa-github
-      href: https://github.com/danzadellavita/danzadellavita.github.io
+    - text: "Getuigenissen"
+      href: getuigenissen.html
+    - text: "Info & Contact"
+      menu:
+        - text: "Fien & Lieven"
+          href: about.html
+        - text: "Contact"
+          href: contact.html
 
 output:
   html_document:

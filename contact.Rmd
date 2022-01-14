@@ -1,0 +1,53 @@
+---
+title: "Contact"
+output:
+    html_document:
+        code_download: false
+        toc: false
+        number_sections: false
+        code_folding: "none"
+---
+
+</br>
+
+### Fien Morel 
+
+```{r echo=FALSE,out.width="17%",out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics("./figs/fien.jpeg")
+```
+
+Biodanza docent onder supervisie van Annette Heynderickx  
+Erkend Bach Bloesem Consulent en Lichaamsgericht Therapeut  
+Veldstraat 39, 8200 Sint-Michiels (Brugge)  
+GSM: +32 486 52 41 56  
+mail: [info@n-zicht.be](mailto:info@n-zicht.be)  
+
+</br>
+</br>
+
+### Lieven Clement
+
+```{r echo=FALSE,out.width="17%",out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics("./figs/lieven.jpg")
+```
+</br>
+</br>
+Professor of Statistical Genomics  
+Veldstraat 39, 8200 Sint-Michiels (Brugge)  
+GSM: +32 486 62 53 96  
+mail: [lieven.clement@gmail.com](mailto:lieven.clement@gmail.com)  
+</br>
+</br>
+</br>
+
+
+### Zaal 
+
+```{r echo=FALSE,out.width="17%",out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics("https://www.brugge.be/files/uploads/imagecache/Origineel/images/news/xaverianen_ingang.jpg")
+```
+Centrum Xaverianen  
+Polyvalente zaal A  
+Xaverianenstraat 3   
+8200 Sint-Michiels 
+

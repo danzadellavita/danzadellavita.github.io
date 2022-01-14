@@ -13,7 +13,7 @@ output:
 
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
-Slides voor Weekend 4 "Biologische Aspecten van Biodanza" in de [Biodanza opleiding Antwerpen](https://www.biodanzaschoolantwerpen.be/biodanza-opleiding)
+Slides voor Weekend 4 "Biologische Aspecten van Biodanza", 15/01/2022-16/01/2022 in de [Biodanza opleiding Antwerpen](https://www.biodanzaschoolantwerpen.be/biodanza-opleiding)
 
 # Biocentrisch Principe 
 
@@ -97,8 +97,11 @@ $\rightarrow$ Toename van entropie
 
 </br>
 
-- Prigogine noemt leven daarom een dissipatieve structuur
+- Prigogine onderzocht systemen ver uit thermodynamisch evenwicht
+- Hij noemde ze dissipatieve structuren
 - Ons zonnestelsel is een dissipatieve zone waar orde uit chaos kan worden gegenereerd. 
+- Het leven doet aan entropie productie door de energie in UV en zichtbare fotonen te dissiperen in warmte door organische pigmenten (vb. chlorofyl).
+- Deze hitte induceert secundaire dissipatieve processen zoals de water cyclus, wind en zeestromingen, orkanen, enz. 
 
 </br>  
 
