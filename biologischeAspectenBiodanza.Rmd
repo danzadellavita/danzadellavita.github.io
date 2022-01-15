@@ -93,21 +93,37 @@ Merk op dat DNA in de tijd van Schrödinger nog niet is gekend.
     - een open systeem
     - energie van de zon 
     - chaos van moleculen op aarde 
-    - Tijdens de chemische reacties die structuur geven wordt ook veel energie verloren in warmte: dissipatie 
-
-$\rightarrow$ Toename van entropie
+    - Tijdens de chemische reacties die structuur geven wordt ook veel energie verloren in warmte: dissipatie  
+      
+      $\rightarrow$ Toename van entropie
 
 </br>
 
-- Prigogine onderzocht systemen ver uit thermodynamisch evenwicht
-- Hij noemde ze dissipatieve structuren
-- Ons zonnestelsel is een dissipatieve zone waar orde uit chaos kan worden gegenereerd. 
-- Het leven doet aan entropie productie door de energie in UV en zichtbare fotonen te dissiperen in warmte door organische pigmenten (vb. chlorofyl).
-- Deze hitte induceert secundaire dissipatieve processen zoals de water cyclus, wind en zeestromingen, orkanen, enz. 
+Prigogine onderzocht chemische systemen ver uit thermodynamisch evenwicht  
+
+- Open systemen: influx van materie en energie  
+
+- De reacties bevatten typisch veel feedback loops  
+
+- Ze kunnen zelf structuur genereren: chemische klokken, spatiale en spatiotemporale concentratie golven  
+
+- Ze dissiperen hiervoor de inkomende energie  
+
+- Hij noemde ze dissipatieve structuren  
+
+</br>
+
+Ons zonnestelsel is een dissipatieve zone waar orde uit chaos kan worden gegenereerd.  
+
+- Het leven doet aan entropie productie door de energie in UV en zichtbare fotonen te dissiperen in warmte door organische pigmenten (vb. chlorofyl).  
+
+- Deze hitte induceert secundaire dissipatieve processen zoals de water cyclus, wind en zeestromingen, orkanen, enz.
 
 </br>  
 
 ## Definitie volgens de Duve
+
+</br>
 
 Boek: "Life Evolving - Molecules, Mind and Meaning" (de Duve, 2002)
 
