@@ -223,11 +223,15 @@ Ontstaan van leven:
 
 ### Het Leven is Chemie
 
+[![](./figs/roche_pathways.jpg)](http://biochemical-pathways.com/#/map/1)
+(bron: Dr. Gerhard Michal, Roche)
+<!-- 
+Not working http in https
 <div style="position:relative;padding-top:56.25%;">
-<iframe src= "http://biochemical-pathways.com/#/map/1" frameborder="0" allowfullscreen
+<iframe src= "http://googleweblight.com/?liteurl=https://biochemical-pathways.com/#/map/1" frameborder="0" allowfullscreen
       style="position:absolute;top:0;left:0;width:100%;height:100%;">
 </iframe>
-</div>
+</div> -->
 
 #### Energie 
 
