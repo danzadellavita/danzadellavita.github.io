@@ -507,9 +507,17 @@ RNA
 
 # Evolutie en Fylogenese
 
-<center?
+<center>
 ![](./figs/biologischeAspectenBiodanzaDeelII.png){width=50%}  
 </center>
+
+</br>
+
+
+</br>
+
+![](./figs/Phylogenetic_tree.svg)
+(Bron: wikipedia)    
 
 </br>  
 
@@ -517,20 +525,33 @@ RNA
 
 ### Variatie en Selectie
 
+Bacteria & Archae  
 ![](./figs/Binary_Fission_2.svg){width=70%}  
 (bron: Ecoddington, wikipedia)
 
+Eukaryota
+![](./figs/Meiosis_Stages.svg)
+(Bron: Ali Zifan, wikipedia)
+
 </br>  
 
-![](./figs/DNA_polymerase.svg){width=27%}  
+<center>
+![](./figs/DNA_polymerase.svg){width=40%}  
 (bron: wikipedia)
+</center>
 
-- Foutenmarge bij DNA  replicatie: 1 fout per miljard baseparen die wordt gekopieerd
-- Inserties/deleties: baseparen die worden toegevoegd of verwijderd
+</br> 
+
+- Foutenmarge bij DNA  replicatie: 1 fout per miljard baseparen die wordt gekopieerd (Menselijk genoom 6.4 miljard baseparen)  
+
+- Inserties/deleties: baseparen die worden toegevoegd of verwijderd  
+
 - Recombinatie: herschikking van genetische eigenschappen, bijvoorbeeld bij geslachtelijke voortplanting (andere combinatie van genen dan beide ouders)
-
 $\rightarrow$ Mutaties  
 $\rightarrow$ Natuurlijke variabiliteit
+
+- Meeste mutaties zijn veelal neutraal  $\rightarrow$ Moleculaire/Genetische Klok
+- Maar soms ook niet
 
 </br>  
 
@@ -543,7 +564,7 @@ $\rightarrow$ Natuurlijke variabiliteit
 
 - Komt vooral in Afrika voor.
 - Waarom blijft deze mutatie bestaan? 
-- Selectie omdat het resistentie geeft tegen malaria 
+- Selectie door ecofactoren: omdat het resistentie geeft tegen malaria 
 
 </br>  
 
@@ -621,10 +642,14 @@ $\rightarrow$ Natuurlijke variabiliteit
 
 </br>  
 
+#### Evolutie heeft geen richting
+
+- Verdeling van aantal species en complexiteit
+
 ![](./figs/selectionNoDirectionDef.png)  
 (bron: Stephen J. Gould, 1996, Full House: the spread of Excellence from Plato To Darwin)  
   
-</br>  
+- Verdeling van massa koolstof die vastligt in verschillende types organismen 
 
 ![](https://www.pnas.org/content/pnas/115/25/6506/F1.large.jpg)  
 (Massa in giga ton koolstof. Bron: doi.org/10.1073/pnas.1711842115)
@@ -748,7 +773,9 @@ Genetische informatie van een soort kan ook worden gezien als een soort "logboek
 
 </br>  
     
-# Ontogenese 
+# Ontogenese
+
+</br>
 <center>
 ![](./figs/biologischeAspectenBiodanzaDeelIII.png){width=50%}
 </center>
@@ -758,6 +785,16 @@ Genetische informatie van een soort kan ook worden gezien als een soort "logboek
 - Ontogenese: ontwikkeling van een organisme van eicel tot overlijden van volwassen individu. 
 
 - Elke cel van meercellig organisme bevat zelfde erfelijk materiaal!
+
+
+- Waarom zijn cellen van zelfde organisme nu zo verschillend?
+
+## Epigenetica 
+
+![](./figs/Epigenetic_mechanisms.png)  
+(bron: NIH, wikipedia)
+
+</br>
 
 ![](./figs/DNA_methylation_reprogramming.png)  
 (bron: Mariuswalter, wikipedia)
@@ -771,6 +808,16 @@ Genetische informatie van een soort kan ook worden gezien als een soort "logboek
 - Epigenetica wordt beïnvoeld door ecofactoren. 
 
 - Eeneiige tweelingen zelfde genoom, verschillen steeds meer gedurende het leven: epigenetica
+
+
+</br> 
+
+<center>
+![](https://www.researchgate.net/profile/Tara-Hogenson/publication/320386487/figure/fig1/AS:783847914471429@1563895314907/dentical-twins-with-phenotypic-discordance-due-to-environmental-exposure-Although-MZ.png){width=50%}
+</center>
+(Verschil door ecofactor UV-blootstelling, bron: Swab & Hogenson, DOI: 10.1007/978-3-319-31143-2_65-1)
+
+</br> 
 
 ![](https://www.ncbi.nlm.nih.gov/pmc/articles/instance/3501579/bin/nihms402187f3.jpg)  
 (Bron doi: 10.1111/j.1526-4637.2012.01488.x)
@@ -789,11 +836,27 @@ Genetische informatie van een soort kan ook worden gezien als een soort "logboek
 
 </br>  
 
-- Vivencia werkt sterk in op brein. 
+## Ontogenese in Biodanza
+
+</br>
+<center>
+![](./figs/biologischeAspectenBiodanzaDeelIII.png){width=50%}
+</center>
+
+- Ontogenese kan worden gezien als de tijdsas in het model!
+
+- Vivencia werkt sterk in op brein
+$\rightarrow$ de sensaties die we hierbij ervaren zijn afkomstig van de genen van allerlei hormonen en neurotransmitters die tot expressie worden gebracht. 
 
 - Langdurig beoefenenen van Biodanza kan epigenetica beïnvloeden en dus hoe genetisch potentieel wordt benut.
 
-- Onderzoek toonde aan dat ondermeer mind-body technieken (meditatie, qigong, tai chi, yoga) celverjonging kunnen induceren door activatie van het gen dat codeert voor teleomerase (Vb Boek The telomere effect (Jonger worden), Nobelprijs winnares Elizabeth Blackburn en Elissa Epel)
+- Onze tool? 
+  
+  - Regressie en identiteit in de 5 lijnen 
+  - de pulsatie tussen regressie en identiteit is nodig want een organisme filtert prikkels weg die continu zijn!  
+  
+  
+- Aangetoond dat mind-body technieken (meditatie, qigong, tai chi, yoga) celverjonging kunnen induceren door activatie van het gen dat codeert voor teleomerase (The telomere effect (Jonger worden), Nobelprijs winnares Elizabeth Blackburn en Elissa Epel)
 
 </br>  
 
