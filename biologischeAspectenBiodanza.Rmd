@@ -15,7 +15,31 @@ output:
 
 Slides voor Weekend 4 "Biologische Aspecten van Biodanza", 15/01/2022-16/01/2022, in de [Biodanza opleiding Antwerpen](https://www.biodanzaschoolantwerpen.be/biodanza-opleiding)
 
+[Youtube Playlist](https://www.youtube.com/watch?v=JV1IMKtAdZQ&list=PLKAFO-HAp2GzJISIKlDHtXZc573RLn1PG)
+
+Totale duur van het lesmateriaal is ongeveer 2.5 uur in video clips van 2 tot 10 minuten.
+
+</br>  
+<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
+<iframe
+src="https://www.youtube.com/embed/JV1IMKtAdZQ"
+frameborder="0"
+style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
+allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></iframe>
+</div>
+</br> 
+
 # Biocentrisch Principe 
+
+</br>  
+<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
+<iframe
+src="https://www.youtube.com/embed/TRuBtMwTYX4"
+frameborder="0"
+style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
+allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></iframe>
+</div>
+</br> 
 
 De theorie van Biodanza heeft Rolando geënt op zijn axioma: ‘biocentrisch principe’. 
 
@@ -48,6 +72,16 @@ $\rightarrow$ Leven is intrensiek sacraal en hoort dus in het hart te liggen van
 </br>  
 
 # Biologische Aspecten van de Biodanza 
+
+</br>  
+<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
+<iframe
+src="https://www.youtube.com/embed/S0BJOsAwXdI"
+frameborder="0"
+style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
+allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></iframe>
+</div>
+</br>
 </br>
 <center>
 ![](./figs/biodanzaModel.png){width=50%}
@@ -62,6 +96,16 @@ $\rightarrow$ Leven is intrensiek sacraal en hoort dus in het hart te liggen van
 # Wat is Leven?
 
 ## Schrödinger en Prigogine
+
+</br>  
+<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
+<iframe
+src="https://www.youtube.com/embed/M6L_e3M1H4E"
+frameborder="0"
+style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
+allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></iframe>
+</div>
+</br> 
 
 Boek: "What Is Life? The Physical Aspect of the Living Cell" (Schrödinger, 1944). 
 
@@ -123,6 +167,16 @@ Ons zonnestelsel is een dissipatieve zone waar orde uit chaos kan worden gegener
 
 ## Definitie volgens de Duve
 
+</br>  
+<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
+<iframe
+src="https://www.youtube.com/embed/eBhxjndX0J0"
+frameborder="0"
+style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
+allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></iframe>
+</div>
+</br> 
+
 </br>
 
 Boek: "Life Evolving - Molecules, Mind and Meaning" (de Duve, 2002)
@@ -144,6 +198,16 @@ Ontstaan van leven:
 </br>  
 
 ### Het leven is één
+
+</br>  
+<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
+<iframe
+src="https://www.youtube.com/embed/B2xk4SLGoF8"
+frameborder="0"
+style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
+allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></iframe>
+</div>
+</br> 
 
 #### Alle organismen zijn opgebouwd uit cellen
 
@@ -239,6 +303,17 @@ Ontstaan van leven:
 
 ### Het Leven is Chemie
 
+</br>  
+<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
+<iframe
+src="https://www.youtube.com/embed/zv_l-3Wrx1I"
+frameborder="0"
+style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
+allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></iframe>
+</div>
+</br> 
+
+
 [![](./figs/roche_pathways.jpg)](http://biochemical-pathways.com/#/map/1)
 (bron: Dr. Gerhard Michal, Roche)
 <!-- 
@@ -326,6 +401,16 @@ Een cel erft van de moedercel niet alleen erfelijk materiaal maar ook spatiale o
 
 ### Het Leven is informatie
 
+</br>  
+<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
+<iframe
+src="https://www.youtube.com/embed/ult4_6hh5zo"
+frameborder="0"
+style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
+allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></iframe>
+</div>
+</br> 
+
 - Gen: basiseenheid van erfelijk materiaal, een DNA sequentie die codeert voor de synthese van een gen product, een eiwit of een functioneel RNA. 
 
 ![](./figs/gene.svg)
@@ -392,6 +477,16 @@ Een cel erft van de moedercel niet alleen erfelijk materiaal maar ook spatiale o
 </br>  
 
 ## Ontstaan van het heelal
+
+</br>  
+<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
+<iframe
+src="https://www.youtube.com/embed/-IYF8QR8oks"
+frameborder="0"
+style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
+allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></iframe>
+</div>
+</br> 
 
 ![](./figs/originKosmos.jpg)  
 (bron: NASA/WMAP Science Team, wikipedia) 
@@ -479,6 +574,17 @@ $\rightarrow$ eerste stap naar aminozuren (bouwblokken eiwitten) en nucleotiden 
 
 ## Ontstaan van het zonnestelsel en de genese van het leven
 
+</br>  
+<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
+<iframe
+src="https://www.youtube.com/embed/j5wB4Cm5E8Q"
+frameborder="0"
+style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
+allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></iframe>
+</div>
+</br> 
+
+
 ![](https://images.squarespace-cdn.com/content/v1/53a0be00e4b014ec3a93a9c2/1532093625692-46R36V6GTGL49HJV934P/Twombly-SciAm-Origins_match.jpg)  
 (Author: Matthew Twombly)
 
@@ -507,6 +613,16 @@ RNA
 
 # Evolutie en Fylogenese
 
+</br>  
+<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
+<iframe
+src="https://www.youtube.com/embed/TDK2hSAEm80"
+frameborder="0"
+style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
+allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></iframe>
+</div>
+</br> 
+
 <center>
 ![](./figs/biologischeAspectenBiodanzaDeelII.png){width=50%}  
 </center>
@@ -524,6 +640,16 @@ RNA
 ## Evolutie
 
 ### Variatie en Selectie
+
+</br>  
+<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
+<iframe
+src="https://www.youtube.com/embed/9SYX6ASaWAQ"
+frameborder="0"
+style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
+allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></iframe>
+</div>
+</br> 
 
 Bacteria & Archae  
 ![](./figs/Binary_Fission_2.svg){width=70%}  
@@ -571,6 +697,17 @@ $\rightarrow$ Natuurlijke variabiliteit
 
 ### Evolutie 
 
+</br>  
+<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
+<iframe
+src="https://www.youtube.com/embed/kWx-zyFdC0c"
+frameborder="0"
+style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
+allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></iframe>
+</div>
+</br> 
+
+
 - Natuurlijk proces dat aan de basis ligt van het ontstaan van alle soorten (planten, dieren, bacteriën, schimmels, ... en mensachtigen)
 
 - Eindresultaat van twee tegenwerkende krachten: **variatie** en **selectie**
@@ -588,6 +725,16 @@ $\rightarrow$ Natuurlijke variabiliteit
 
 ### Genetische drift 
 
+</br>  
+<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
+<iframe
+src="https://www.youtube.com/embed/CTuMi9aYs8A"
+frameborder="0"
+style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
+allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></iframe>
+</div>
+</br> 
+
 - Genetische drift: toevallige fluctuatie van allelen 
 
 - Vooral sterk in kleine populaties
@@ -601,6 +748,15 @@ $\rightarrow$ Natuurlijke variabiliteit
 
 ### Horizontale genuitwisseling
 
+</br>  
+<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
+<iframe
+src="https://www.youtube.com/embed/X-Oc33ZWNQo"
+frameborder="0"
+style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
+allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></iframe>
+</div>
+</br> 
 - Niet sexuele uitwisseling van genetische informatie
 
 - Veelvuldig tussen prokaryoten (eubacteria en arachae bacteria) 
@@ -614,6 +770,16 @@ $\rightarrow$ Natuurlijke variabiliteit
 </br>  
 
 ### Teleonomie
+
+</br>  
+<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
+<iframe
+src="https://www.youtube.com/embed/BR2K8Wy1XPA"
+frameborder="0"
+style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
+allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></iframe>
+</div>
+</br> 
 
 - Er is enkel het unieke primitieve doel van behoud en reproductie van de soort.
 
@@ -667,6 +833,16 @@ $\rightarrow$ Natuurlijke variabiliteit
 </br>  
 
 ## Fylogenese 
+
+</br>  
+<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
+<iframe
+src="https://www.youtube.com/embed/VwHbj1MhxNY"
+frameborder="0"
+style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
+allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></iframe>
+</div>
+</br> 
 
 Ontstaan van alle soorten door evolutie
 
@@ -775,6 +951,16 @@ Genetische informatie van een soort kan ook worden gezien als een soort "logboek
     
 # Ontogenese
 
+</br>  
+<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
+<iframe
+src="https://www.youtube.com/embed/iuor4m6wOGY"
+frameborder="0"
+style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
+allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></iframe>
+</div>
+</br> 
+
 </br>
 <center>
 ![](./figs/biologischeAspectenBiodanzaDeelIII.png){width=50%}
@@ -837,6 +1023,17 @@ Genetische informatie van een soort kan ook worden gezien als een soort "logboek
 </br>  
 
 ## Ontogenese in Biodanza
+
+</br>  
+<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
+<iframe
+src="https://www.youtube.com/embed/b7jQT-qtG2g"
+frameborder="0"
+style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
+allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></iframe>
+</div>
+</br> 
+
 
 </br>
 <center>
