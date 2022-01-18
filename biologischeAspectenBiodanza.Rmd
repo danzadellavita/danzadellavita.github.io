@@ -15,9 +15,21 @@ output:
 
 Slides voor Weekend 4 "Biologische Aspecten van Biodanza", 15/01/2022-16/01/2022, in de [Biodanza opleiding Antwerpen](https://www.biodanzaschoolantwerpen.be/biodanza-opleiding)
 
-[Youtube Playlist](https://www.youtube.com/watch?v=JV1IMKtAdZQ&list=PLKAFO-HAp2GzJISIKlDHtXZc573RLn1PG)
+Totale duur van het lesmateriaal: ongeveer 2 uur 10 min.
 
-Totale duur van het lesmateriaal is ongeveer 2.5 uur in video clips van 2 tot 10 minuten.
+</br>  
+
+###  Volledige Youtube Playlist (19 clips, totale afspeeltijd 129min) {-}
+
+<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
+<iframe 
+src="https://www.youtube.com/embed/videoseries?list=PLKAFO-HAp2GzJISIKlDHtXZc573RLn1PG" style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</br>
+
+
+# Introductie door Annette Heynderickx {-}
 
 </br>  
 <div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
@@ -94,6 +106,18 @@ allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></if
 </br>  
 
 # Wat is Leven?
+
+</br>  
+
+### Youtube Playlist (5 clips, totale afspeeltijd 45 min) {-}
+
+<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
+<iframe 
+src="https://www.youtube.com/embed/videoseries?list=PLKAFO-HAp2GwX7OTx4HmMVz1__wfnbl2W" style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</br>
+
 
 ## Schrödinger en Prigogine
 
@@ -471,6 +495,18 @@ allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></if
 
 # Principes van het Kosmische Leven en Genese van het Leven
 
+</br>  
+
+### Youtube Playlist (2 clips, totale afspeeltijd 19 min) {-}
+
+<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
+<iframe 
+src="https://www.youtube.com/embed/videoseries?list=PLKAFO-HAp2GwssL7aGq0mlAaWd7GOadHC" style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</br>
+
+## Intro {-}
 <center>
 ![](./figs/biologischeAspectenBiodanzaDeelI.png){width=50%}
 </center>
@@ -613,6 +649,18 @@ RNA
 
 # Evolutie en Fylogenese
 
+</br>  
+
+### Youtube Playlist (7 clips, totale afspeeltijd 37 min) {-}
+
+<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
+<iframe 
+src="https://www.youtube.com/embed/videoseries?list=PLKAFO-HAp2GyTVop8DsC57uhvWgIwZ8Ag" style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</br>
+
+## Intro {-}
 </br>  
 <div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
 <iframe
@@ -950,6 +998,19 @@ Genetische informatie van een soort kan ook worden gezien als een soort "logboek
 </br>  
     
 # Ontogenese
+
+</br>  
+
+#### Youtube Playlist (2 clips, totale afspeeltijd 20 min) {-}
+
+<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
+<iframe 
+src="https://www.youtube.com/embed/videoseries?list=PLKAFO-HAp2GysTNvKUNIJiqrPa8J6zZW0" style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</br>
+
+## Intro {-}
 
 </br>  
 <div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
