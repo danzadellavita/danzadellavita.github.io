@@ -22,6 +22,8 @@ navbar:
           href: about.html
         - text: "Contact"
           href: contact.html
+        - text: "Google Maps"
+          href: "map.html"
 
 output:
   html_document:
