@@ -1,5 +1,5 @@
 ---
-title: "Biodanza en Wetenschap"
+title: "Biodanza & Wetenschap"
 output:
     html_document:
         code_download: false
@@ -35,5 +35,5 @@ Christian de Duve die het leven even eenvoudig als geniaal definieerde: "het lev
 
 Interesse om je helemaal onder te dompelen in de wetenschappelijke fundamenten van de Biodanza? 
 
-Dan delen we graag het lesmateriaal van Lieven die de theorie verzorgde voor Weekend 4, 15/01/2022-16/01/2022, in de Biodanza opleiding Antwerpen: [Biologische Aspecten van De Biodanza](./biologischeAspectenBiodanza.html) 
+Dan delen we graag het lesmateriaal van Lieven die de theorie verzorgde voor Weekend 4, 15/01/2022-16/01/2022, in de Biodanza opleiding Antwerpen: [Biologische Aspecten van Biodanza](./biologischeAspectenBiodanza.html) 
 
