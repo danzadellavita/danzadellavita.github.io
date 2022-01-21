@@ -23,7 +23,7 @@ Rolando was ook een gepassioneerd wetenschapper en professor in de psychologie. 
 knitr::include_graphics("./figs/Prochlorococcus_marinus.jpg")
 ```
 
-Hij ente Biodanza op het biocentrische principe waarbij je niet langer de mens maar alle het leven centraal zet. Hij haalde zijn inspiratie hiervoor bij twee Belgische Nobelprijswinnaars:  
+Hij ente Biodanza op het biocentrische principe waarbij je niet langer de mens maar alle het leven centraal zet. Hij haalde ondermeer zijn inspiratie hiervoor bij twee Belgische Nobelprijswinnaars:  
 
 Ilya Prigogine die de theorie ontwikkelde die aantoont dat de chemie van het leven orde uit chaos kan laten ontstaan,  
 
