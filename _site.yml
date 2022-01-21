@@ -24,7 +24,8 @@ navbar:
           href: contact.html
         - text: "Google Maps"
           href: "map.html"
-
+        - text: "Inschrijven"
+          href: "inschrijven.html"
 output:
   html_document:
       code_download: true
