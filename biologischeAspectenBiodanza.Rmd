@@ -17,7 +17,7 @@ Slides voor Weekend 4 "Biologische Aspecten van Biodanza", 15/01/2022-16/01/2022
 
 Totale duur van het lesmateriaal: ongeveer 2 uur 10 min.
 
-**Volledige Youtube Playlist (19 clips, totale afspeeltijd 129min)**
+**Volledige Youtube Playlist (19 clips, totale afspeeltijd 129min)**. De clips zijn ook afzonderlijk te bekijken bij elk onderdeel. 
 
 <div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
 <iframe 
@@ -101,7 +101,7 @@ allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></if
 
 # Wat is Leven?
 
-**Youtube Playlist (5 clips, totale afspeeltijd 45 min)**
+**Youtube Playlist (5 clips, totale afspeeltijd 45 min)**. De clips zijn ook afzonderlijk te bekijken bij elk onderdeel.
 <div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
 <iframe 
 src="https://www.youtube.com/embed/videoseries?list=PLKAFO-HAp2GwX7OTx4HmMVz1__wfnbl2W" style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
@@ -484,9 +484,7 @@ allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></if
 
 # Principes van het Kosmische Leven en Genese van het Leven
 
-</br>  
-
-**Youtube Playlist (2 clips, totale afspeeltijd 19 min)**
+**Youtube Playlist (2 clips, totale afspeeltijd 19 min)**. De clips zijn ook afzonderlijk te bekijken bij elk onderdeel.
 <div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
 <iframe 
 src="https://www.youtube.com/embed/videoseries?list=PLKAFO-HAp2GwssL7aGq0mlAaWd7GOadHC" style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
@@ -637,9 +635,7 @@ RNA
 
 # Evolutie en Fylogenese
 
-</br>  
-
-**Youtube Playlist (7 clips, totale afspeeltijd 37 min)**
+**Youtube Playlist (7 clips, totale afspeeltijd 37 min)**. De clips zijn ook afzonderlijk te bekijken bij elk onderdeel.
 <div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
 <iframe 
 src="https://www.youtube.com/embed/videoseries?list=PLKAFO-HAp2GyTVop8DsC57uhvWgIwZ8Ag" style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
@@ -985,9 +981,7 @@ Genetische informatie van een soort kan ook worden gezien als een soort "logboek
     
 # Ontogenese
 
-</br>  
-
-**Youtube Playlist (2 clips, totale afspeeltijd 20 min)**
+**Youtube Playlist (2 clips, totale afspeeltijd 20 min)**. De clips zijn ook afzonderlijk te bekijken bij elk onderdeel.
 <div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
 <iframe 
 src="https://www.youtube.com/embed/videoseries?list=PLKAFO-HAp2GysTNvKUNIJiqrPa8J6zZW0" style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
