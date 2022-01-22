@@ -1,6 +1,5 @@
-/*------------FOOTER----------*/
+/* Customize menu */
 
-/* To make the footer stick to the bottom */
 .navbar {
    background-color: #a29f8c; /*color menu*/
 }
@@ -61,18 +60,13 @@
   border-color: #39181f;
 }
 
+
+/* To make the footer stick to the bottom */
+
 html {
   position: relative;
   min-height: 100%;
 }
-body {
-  margin-bottom: 60px;
-  color: #39181f;
-  font-family: Bitter, Georgia, serif;
-  line-height: 1.5;
-  font-size: 17px;
-}
-
 .footer {
     position: absolute;
     bottom: 0;
@@ -95,6 +89,16 @@ body {
 
 .tocify-extend-page {
     height: 60px !important;
+}
+
+/* layout body, links, headings */
+
+body {
+  margin-bottom: 60px;
+  color: #39181f;
+  font-family: Bitter, Georgia, serif;
+  line-height: 1.5;
+  font-size: 17px;
 }
 
 a:link {
