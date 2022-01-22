@@ -15,16 +15,21 @@ output:
 
 
 
-### Waar? {-}
 
-```{r echo=FALSE,out.width="17%",out.extra='style="float:left; padding:10px"'}
-knitr::include_graphics("https://www.brugge.be/files/uploads/imagecache/Origineel/images/news/xaverianen_ingang.jpg")
-```
+</br>
 
+### Zaal
+
+<table>
+<tr>
+<td width=30%>![](https://www.brugge.be/files/uploads/imagecache/Origineel/images/news/xaverianen_ingang.jpg)</td> 
+<td width=5%></td>
+<td>
 Centrum Xaverianen  
-Polyvalente zaal A 
-De grote zaal tegenover de bibliotheek 
-Op Gelijkvloers 
-In de nieuwbouw 
+Polyvalente zaal A  
 Xaverianenstraat 3   
-8200 Sint-Michiels 
+8200 Sint-Michiels  
+</td>
+</tr>
+
+</table>
