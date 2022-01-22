@@ -11,7 +11,7 @@ output:
 Biodanza Brugge is opgericht door Fien Morel en Lieven Clement met het oog om Biodanza mee de wereld in te zetten in Brugge.
 
 ### Fien Morel 
-```{r echo=FALSE,out.width="30%",out.extra='style="float:left; padding:10px"'}
+```{r echo=FALSE,out.width="40%",out.extra='style="float:left; padding:10px"'}
 knitr::include_graphics("./figs/fien.jpeg")
 ```
 
@@ -27,7 +27,7 @@ Ik geef les in BUSO Ravelijn en begeleid jongeren met een mentale beperking via 
 
 ### Lieven Clement
 
-```{r echo=FALSE,out.width="30%",out.extra='style="float:left; padding:10px"'}
+```{r echo=FALSE,out.width="40%",out.extra='style="float:left; padding:10px"'}
 knitr::include_graphics("./figs/lieven.jpg")
 ```
 
