@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Contact met Biodanza Brugge"
 output:
     html_document:
         code_download: false

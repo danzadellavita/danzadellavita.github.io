@@ -1,5 +1,5 @@
 ---
-title: "Getuigenissen Biodanza"
+title: "Getuigenissen"
 output:
     html_document:
         code_download: false
@@ -7,7 +7,6 @@ output:
         number_sections: false
         code_folding: "none"
 ---
-</br> 
 <center>
 ![](./figs/pastelBiodanzaSmall.jpg)
 </center>
