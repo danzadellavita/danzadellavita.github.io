@@ -8,8 +8,6 @@ output:
         code_folding: "none"
 ---
 
-</br>
-
 Biodanza Brugge is opgericht door Fien Morel en Lieven Clement met het oog om Biodanza mee de wereld in te zetten in Brugge.
 
 ### Fien Morel 

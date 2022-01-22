@@ -8,8 +8,6 @@ output:
         code_folding: "none"
 ---
 
-</br>
-
 ### Fien Morel 
 
 ```{r echo=FALSE,out.width="17%",out.extra='style="float:left; padding:10px"'}
