@@ -19,12 +19,13 @@ navbar:
       menu:
         - text: "Fien & Lieven"
           href: about.html
+        - text: "Inschrijven"
+          href: "inschrijven.html"
         - text: "Contact"
           href: contact.html
         - text: "Google Maps"
           href: "map.html"
-        - text: "Inschrijven"
-          href: "inschrijven.html"
+
 output:
   html_document:
       code_download: true
