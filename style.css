@@ -1,5 +1,10 @@
 /* Customize menu */
 
+.navbar-brand
+{
+  font-size: 1.33em;
+}
+
 .navbar {
    background-color: #a29f8c; /*color menu*/
 }
