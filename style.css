@@ -8,11 +8,11 @@
   color: #39181f
 }
 .navbar-default .navbar-brand:hover,
-.navbar-default .navbar-brand:focus {
+.navbar-default .navbar-brand:focus
+{
   color: #ffffff;
   background-color: transparent;
 }
-
 
 .navbar-default .navbar-link:hover {
   color: #39181f;
