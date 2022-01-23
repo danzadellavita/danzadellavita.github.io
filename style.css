@@ -60,6 +60,10 @@
   border-color: #39181f;
 }
 
+.navbar-default .navbar-toggle:hover,
+.navbar-default .navbar-toggle:focus {
+  background-color: #39181f;
+}
 
 /* To make the footer stick to the bottom */
 
