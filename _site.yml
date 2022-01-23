@@ -1,8 +1,7 @@
 name: "Biodanza Brugge"
 navbar:
-  title: "Biodanza Brugge"
   left:
-    - icon: fa-home
+    - text: "Biodanza Brugge"
       href: index.html
     - text: "Activiteiten"
       href: activiteiten.html
