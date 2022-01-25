@@ -12,7 +12,7 @@ output:
 
 <table>
 <tr>
-<td width=30%>![](./figs/fien.jpeg)</td> 
+<td width=30% style="vertical-align: top;">![](./figs/fien.jpeg)</td> 
 <td width=5%></td>
 <td style="vertical-align: top;">Biodanza docent onder supervisie van Annette Heynderickx  
 Erkend Bach Bloesem Consulent en Lichaamsgericht Therapeut  
@@ -29,7 +29,7 @@ mail: [info@n-zicht.be](mailto:info@n-zicht.be)
 
 <table>
 <tr>
-<td width=30%>![](./figs/lieven.jpg)</td> 
+<td width=30% style="vertical-align: top;">![](./figs/lieven.jpg)</td> 
 <td width=5%></td>
 <td style="vertical-align: top;">
 Professor of Statistical Genomics  
@@ -46,7 +46,7 @@ mail: [lieven.clement@gmail.com](mailto:lieven.clement@gmail.com)
 
 <table>
 <tr>
-<td width=30%>![](https://www.brugge.be/files/uploads/imagecache/Origineel/images/news/xaverianen_ingang.jpg)</td> 
+<td width=30% style="vertical-align: top;">![](https://www.brugge.be/files/uploads/imagecache/Origineel/images/news/xaverianen_ingang.jpg)</td> 
 <td width=5%></td>
 <td style="vertical-align: top;">
 Centrum Xaverianen  
