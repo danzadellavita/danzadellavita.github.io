@@ -29,7 +29,7 @@ Enkele getuigenissen vind je [hier](getuigenissen.html)
 
 ### Reeksen
 
-- Voorjaarreeks: 12/01, 19/01, 26/01, 2/09, 9/02, 16/02, 23/02, 9/03, 16/03, 23/03/2022  
+- ![](./figs/bloemZomerReeks.png){width=10%} Nieuw! Zomerreeks: 06/07, 13/07 (20u tot +/- 21u30) & 20/07 (19u tot we gezellig afsluiten)
 
 - Lentereeks: 20/04, 27/04, 04/05, 11/05, 18/05, 25/05, 01/06, 08/06, 15/06, 22/06/2022
 
@@ -41,6 +41,7 @@ Enkele getuigenissen vind je [hier](getuigenissen.html)
   
   - 10-beurtenkaart €150
   - 3-beurtenkaart (in dezelfde reeks) €50
+  - Zomerreeks €50 of via je huidige 10-beurtenkaart
   - Instromen kan, neem je even contact op? [info@n-zicht.be](mailto:info@n-zicht.be) 
 
 </br>
@@ -56,6 +57,6 @@ Xaverianenstraat 3,
 
 </br>
 
-### Inschrijven 3 of 10-beurtenkaart 
+### Inschrijven zomerreeks (3 woensdagavonden in juli)
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd2dkSJv37Rs-5_Hu0SLuAw2dsyyqJxzkj5zpcEtANVAFqH1g/viewform?embedded=true" width="640" height="808" frameborder="0" marginwidth="0" marginheight="0">Laden…</iframe>
