@@ -16,13 +16,8 @@ output:
 Slides for Weekend 4 "Biologische Aspects of Biodanza", 15/01/2022-16/01/2022, in [Biodanza Teacher Training Antwerpen](https://www.biodanzaschoolantwerpen.be/biodanza-opleiding)
 
 
-**Youtube Playlist (in Dutch, 19 clips, totale afspeeltijd 129min)**. 
+Dutch version with youtube clips: on [biodanzabrugge.be](https://biodanzabrugge.be/biologischeAspectenBiodanza.html). 
 
-<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
-<iframe 
-src="https://www.youtube.com/embed/videoseries?list=PLKAFO-HAp2GzJISIKlDHtXZc573RLn1PG" style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
-title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 </br>
 
@@ -126,9 +121,9 @@ Prigogine did research to chemical systems far from equilibrium.
 
 Our solar system is a dissipative zone where order can originate from chaos. 
 
-- Life produces entropy by disipating energy from fotons (light and UV) to heat through organic pigments (e.g. chlorophyll)   
+- Life produces entropy by dissipating energy from fotons (light and UV) to heat through organic pigments (e.g. chlorophyll)   
 
-- This heat induces secondairy disspative processes like the water cycle, wind and sea currents etc. 
+- This heat induces secondairy dissipative processes like the water cycle, wind and sea currents etc. 
 
 - So life also transforms its environment.
 
@@ -173,8 +168,8 @@ Origin of leven:
 
 - Multicellular organisms 
 
-![](https://pmgbiology.files.wordpress.com/2015/03/levelsoforganization.jpg)  
-(source: pmgbiology)
+![](https://mrssmithsbiology.files.wordpress.com/2019/10/picture4.jpg)  
+(source: mrssmithsbiology)
 
 </br>  
 
@@ -486,8 +481,8 @@ $\rightarrow$ convert light atoms to heavy atoms and release of lots of energy
 
 - They are further transformed in interstellar space
 
-    - hydrogenation: waterstoffen, 
-    - oxidation: zuurstof, 
+    - hydrogenation: hydrogen, 
+    - oxidation: oxigen, 
     - hydroxylation (OH) 
     - ...
 
@@ -520,39 +515,24 @@ Upon cooling of the earth water is formed:
 
 </br>  
 
-- Merkwaardige molecule: vloeibaar bij vrij lage temperaturen door waterstof bruggen 
-- Vloeibaar water essentieel voor leven
-- Stolt met volume vergroting! 
+- Peculiar molecule: liquid at rather high temperatures due to hydrogen bridges
+- Liquid water is essential for life
+- Solidifies(freezes) with volume increase! (lowest volume at 4°C)
 
 </br>  
 
 RNA
 
-- Merk op dat RNA bestaat uit AMP, CMP, GMP en UMP 
-- Biologische energie "coin": ATP zelfde molecule maar met 3 fosfaatgroepen (zie ATP/ADP)
-- Recent onderzoek toont aan dat RNA ook bijzonder katalytisch is en zichzelf kan repliceren in condities zonder zuurstof en in aanwezigheid van ijze (e.g. Williams et al, Nat.Chem., 2013, DOI: 10.1038/nchem.1649)
+- Note that RNA consists of AMP, CMP, GMP en UMP 
+- Biological energy "coin": ATP same molecule but with 3 phosphate groups (see ATP/ADP)
+- RNA has been shown to be catalytic and can replicate itself under anoxic conditions and in the presence of iron (e.g. Williams et al, Nat.Chem., 2013, DOI: 10.1038/nchem.1649)
 
 </br>  
 
-# Evolutie en Fylogenese
+# Evolution and phylogenesis
 
-**Youtube Playlist (7 clips, totale afspeeltijd 37 min)**. De clips zijn ook afzonderlijk te bekijken bij elk onderdeel.
-<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
-<iframe 
-src="https://www.youtube.com/embed/videoseries?list=PLKAFO-HAp2GyTVop8DsC57uhvWgIwZ8Ag" style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
-title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-</br>
 
 ## Intro {-}
-<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
-<iframe
-src="https://www.youtube.com/embed/TDK2hSAEm80"
-frameborder="0"
-style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
-allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></iframe>
-</div>
-</br> 
 
 <center>
 ![](./figs/biologischeAspectenBiodanzaDeelII.png){width=50%}  
@@ -568,19 +548,9 @@ allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></if
 
 </br>  
 
-## Evolutie
+## Evolution
 
-### Variatie en Selectie
-
-</br>  
-<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
-<iframe
-src="https://www.youtube.com/embed/9SYX6ASaWAQ"
-frameborder="0"
-style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
-allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></iframe>
-</div>
-</br> 
+### Variability and selection
 
 Bacteria & Archae  
 ![](./figs/Binary_Fission_2.svg){width=70%}  
@@ -599,16 +569,16 @@ Eukaryota
 
 </br> 
 
-- Foutenmarge bij DNA  replicatie: 1 fout per miljard baseparen die wordt gekopieerd (Menselijk genoom 6.4 miljard baseparen)  
+- Error margin of DNA  replication: 1 error per billion basepairs that are copied (Human genome 6.4 billion basepairs)  
 
-- Inserties/deleties: baseparen die worden toegevoegd of verwijderd  
+- Insertions/deletions: basepairs that are added or removed  
 
-- Recombinatie: herschikking van genetische eigenschappen, bijvoorbeeld bij geslachtelijke voortplanting (andere combinatie van genen dan beide ouders)
-$\rightarrow$ Mutaties  
-$\rightarrow$ Natuurlijke variabiliteit
+- Recombination: reshuffling of genetic traits, e.g. during sexual reproduction (e.g. recombination of paternal and maternal segments during meiosis).
+$\rightarrow$ Mutations
+$\rightarrow$ Natural variability
 
-- Meeste mutaties zijn veelal neutraal  $\rightarrow$ Moleculaire/Genetische Klok
-- Maar soms ook niet
+- Most mutaties are neutral $\rightarrow$ Moleculair/Genetic clock
+- But not always
 
 </br>  
 
@@ -619,104 +589,64 @@ $\rightarrow$ Natuurlijke variabiliteit
 
 </br>  
 
-- Komt vooral in Afrika voor.
-- Waarom blijft deze mutatie bestaan? 
-- Selectie door ecofactoren: omdat het resistentie geeft tegen malaria 
+- Many in Africa 
+- Why does this mutation remains? 
+- Selection by ecofactors: malaria resistence 
 
 </br>  
 
 
-### Evolutie 
-
-</br>  
-<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
-<iframe
-src="https://www.youtube.com/embed/kWx-zyFdC0c"
-frameborder="0"
-style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
-allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></iframe>
-</div>
-</br> 
+### Evolution
 
 
-- Natuurlijk proces dat aan de basis ligt van het ontstaan van alle soorten (planten, dieren, bacteriën, schimmels, ... en mensachtigen)
+- Natural process that forms the basis of the origin of species (plants, animals, bacteria, fungi, ... and homonids)
 
-- Eindresultaat van twee tegenwerkende krachten: **variatie** en **selectie**
+- Driven by two opposing forces: **variation** en **selection**
 
-- Variatie door spontaan optreden van foutjes in de genetische code: mutaties
+- Variation by spontaneous copy errors in genetic code:  mutations
 
-- Selectie door combinatie van omgevingsomstandigheden en mutatie, is mutatie gunstig of schadelijk is voor bepaald organisme in deze omgeving
+- Selection upon ecofactors, is mutation beneficial or harmfull for a particular organism in its specific environment.
 
-- Kans dat een mutatie wordt overgedragen, afhankelijk van voortplantingssucces
+- Odds on fixation of mutation depends on reproductive success
 
-- Proces van mutatie en selectie kan over veel generaties leiden tot nieuwe soort
-
+- Process of mutation and selection can eventually lead to new species upon many generations. 
 </br>  
 
 
-### Genetische drift 
+### Genetic drift 
 
-</br>  
-<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
-<iframe
-src="https://www.youtube.com/embed/CTuMi9aYs8A"
-frameborder="0"
-style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
-allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></iframe>
-</div>
-</br> 
 
-- Genetische drift: toevallige fluctuatie van allelen 
+- Genetic drift: randpm fluctuations of allelles  
 
-- Vooral sterk in kleine populaties
+- Particularly strong in small populations
 
-- In tegenstelling tot selectie niet adaptief 
+- As opposed to selection it is not adaptive. 
 
-- Ontstaan van nieuwe soort gaat sneller als een klein deel van de populatie wordt afgesplitst in een nieuw milieu. 
+- New species will originate more quickly when a small fraction of the population gets isolated in a new environment. 
 
 </br>  
 
 
-### Horizontale genuitwisseling
+### Horizontal gene transfer 
+- Non sexual transfer of genetic information 
 
-</br>  
-<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
-<iframe
-src="https://www.youtube.com/embed/X-Oc33ZWNQo"
-frameborder="0"
-style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
-allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></iframe>
-</div>
-</br> 
-- Niet sexuele uitwisseling van genetische informatie
+- Very common between prokaryotes (eubacteria and arachae bacteria) 
 
-- Veelvuldig tussen prokaryoten (eubacteria en arachae bacteria) 
+  - e.g. exchange of antibiotics resistance. 
 
-  - vb uitwisseling resistentie tegen antibiotica
+- between eukaryotes (mainly in protists, unicellular organisms with nucleus)  
 
-- tussen eukaryoten (vooral protisten, eencellige organismen met celkern)  
-
-- tussen prokaryoten (eubacteria en arachae bacteria) en eukaryoten (protisten, planten en dieren)
+- between prokaryotes (eubacteria and arachae bacteria) and eukaryotes (protisten, fungae, plants and animals)
 
 </br>  
 
-### Teleonomie
+### Teleonomy
 
-</br>  
-<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
-<iframe
-src="https://www.youtube.com/embed/BR2K8Wy1XPA"
-frameborder="0"
-style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
-allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></iframe>
-</div>
-</br> 
+- There is only the primitive goal to maintain and reproduce the species. 
 
-- Er is enkel het unieke primitieve doel van behoud en reproductie van de soort.
+- Evolution has no purpose or direction 
 
-- Evolutie heeft verder geen doel of richting 
-
-- Bij het ontstaan van complexe organen en organismen kan het lijken alsof er een richting is/alsof die met een doel zijn ontstaan, maar dat is er niet. 
+- When complex organs and organisms originate its seems as if there is a direction/purpose but that is not the case. 
 
 </br>  
 
@@ -725,66 +655,56 @@ allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></if
 
 </br>  
 
-- Een oog is niet door de evolutie ontwikkeld met het doel om te zien. 
+- The eye is not developed by evolution with the purpose to see. 
 
-- Het oog heeft enkel de functie om te zien
+- The eye only has the function to see
 
-- Het is het resultaat van een gradueel proces waarbij elke aanpassing weer reproductief voordeel gaf in dat bepaald milieu. 
+- It is the result of a gradual process where each adaptation gave a reproductive advantage in a particular environment. 
 
-- In een andere omgeving kan het niet langer nuttig zijn, bv mol en verdwijnt de functie weer
+- In another environment it can be nolonger functional and than it might dissapear, e.g. moles eye 
     
-- Het ontstaan van een soort is het resultaat van evolutie, maar niet het doel van evolutie. 
+- The origin of a species is the result of evolution but not the purpose of evolution. 
 
-- evolutie: is aanpassing met als doel behoud en reproductie
+- evolution is adaptation with as goal maintance and reproduction 
 
 </br>  
 
-#### Evolutie heeft geen richting
+#### Evolution has no direction
 
-- Verdeling van aantal species en complexiteit
+- Distribution of number of species and complexity
 
 ![](./figs/selectionNoDirectionDef.png)  
 (Source: Stephen J. Gould, 1996, Full House: the spread of Excellence from Plato To Darwin)  
   
-- Verdeling van massa koolstof die vastligt in verschillende types organismen 
+- Distribution of carbon mass fixated in different types of species. 
 
-![](https://www.pnas.org/content/pnas/115/25/6506/F1.large.jpg)  
+![](https://www.pnas.org/cms/10.1073/pnas.1711842115/asset/44253c25-afd5-4fa1-b060-31591f934f5d/assets/graphic/pnas.1711842115fig01.jpeg)  
 (Massa in giga ton koolstof. Source: doi.org/10.1073/pnas.1711842115)
 
 </br>  
 
-- Wel heel grote foutenmarge op bacteriën (kan factor 10 hoger zijn). 
+- Note, large error margin on bacteria (can be a factor 10 larger). 
 
-- Aantal bacteriële cellen in ons lichaam (Source: doi.org/10.1371/journal.pbio.1002533): 
-  - \#bacteriële cellen/\#menselijke cellen vroeger geschat op$\pm$ 10/1 
-  - recente schatting $\pm$ 1/1. 
-  - Mens van 70kg $\pm$ 38 biljoen bacteriële cellen/30 biljoen humane cellen (biljoen: 1000 miljard).
+- Number of bacterial cells in our body (Source: doi.org/10.1371/journal.pbio.1002533): 
+  - \#bacterial cells/\#human cells earlier estimated as $\pm$ 10/1 
+  - recent estimatiom  $\pm$ 1/1. 
+  - Human of 70kg $\pm$ 38 trillion bacterial cells/30 trillion humane cells (trillion: 1000 billion: 10$^12$!).
 
-
-</br>  
-
-## Fylogenese 
 
 </br>  
-<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
-<iframe
-src="https://www.youtube.com/embed/VwHbj1MhxNY"
-frameborder="0"
-style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
-allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></iframe>
-</div>
-</br> 
 
-Ontstaan van alle soorten door evolutie
+## Phylogenese 
+
+Origin of all species by evolution
 
 ![](./figs/Phylogenetic_tree.svg)  
 (Source: wikipedia)    
 
-- Het ontstaan van soorten en aanpassing aan het milieu noemt Rolando ook evolutionaire differentiatie. 
+- Rolando refers to origin of species and adaptation to the environment as evolutionary differentiation. 
 
 </br>  
 
-### Tijdschaal
+### Timescale
 
 ![](https://naturedocumentaries.org/wp-content/uploads/2017/12/liferockystartstrip.jpg)
 
@@ -795,37 +715,36 @@ Ontstaan van alle soorten door evolutie
 (Source: naturedocumetaries.org)
 
 
-- Black Earth (4.5 BYA): heet basalt gesteente en stof in koud vacuum
+- Black Earth (4.5 BYA): hot basalt rock and dust in a cold vacuum
 
-- Grey Earth (4.3 BYA): graniet
+- Grey Earth (4.3 BYA): granite
 
 - Blue Earth (3.8 BYA): water
 
-- Red Earth (3.5 BYA): Radicale verandering door leven. 
+- Red Earth (3.5 BYA): Radical change due to life. 
 
-    - Cyanobacteria die fotosynthese doen. 
-    - Zuurstof. 
-    - Alle ijzer in oceaan precipiteert als roest (rood). 
-    - Van 250 $\rightarrow$ > 5000 mineralen. 
-    - Massale uitsterfte van leven. 
+    - Cyanobacteria $\rightarrow$ fotosynthesis $\rightarrow$ oxygen
+    - All iron in the ocean precipitates as iron oxide (rust, red) 
+    - 250 $\rightarrow$ > 5000 minerals. 
+    - Mass extinction
   
   
 - White Earth (540 MYA)
-    - Grote ijstijd
-    - Massale uitsterfte van leven
-    - Vulcanische activiteit was redding: broeikasgassen
+    - Large ice age
+    - Mass extinction
+    - Volcanic activity comes to the rescue: greenhouse gasses 
   
   
 - Green Earth (520 MYA)
     
-    - Explosie leven 
-    - Van eencellig naar meer complex leven 
+    - Explosion of life 
+    - fron unicellular to more complex life.  
 
 </br>  
 
-### Kantelpunt: Genese van eukaryote cel
+### Changepoint: Genesis of eukaryotic cell
 
-Twee archetypes: prokaryoten (eenvoudige cellen,  0.1 to 5.0 $\mu m$) en eukaryoten (grotere meer complexe cellen, 10-100 $\mu m$) 
+Tww archetypes: prokaryoten (simple cells,  0.1 to 5.0 $\mu m$) and eukaryotes (larger and more complex cells, 10-100 $\mu m$) 
 
 ![](./figs/prokaryoteCell.svg){width=30%}
 ![](./figs/animalCell.svg){width=30%}
@@ -834,71 +753,56 @@ Twee archetypes: prokaryoten (eenvoudige cellen,  0.1 to 5.0 $\mu m$) en eukaryo
 
 </br>  
 
-- 3.5 BYA - 520 MYA enkel prokaryote cellen teruggevonden in fosielen
+- 3.5 BYA - 520 MYA only prokaryote cells in fossils
 
 </br>  
 
 
-Genese van Eukaryote cel door endosymbiosis:
+Genesis of Eukaryotic cell by endosymbiosis:
 
 ![](./figs/endosymbiosis.svg)  
 (Source: Kelvinsong, wikipedia)
 
 </br>  
 
-- Prokaryoten: reproductie door celdeling, mutatie gefixeerd in alle dochtercellen 
+- Prokaryotes: reproduction by cell devision, mutation fixed in all daugther cells. 
 
 </br>  
 
-- Eukaryoten: bijnal allemaal een fase met sexuele reproductie
+- Eukaryotes: nearly all have a phase of sexual reproduction
   
-  - veel meer variatie: recombinatie van chromosomen 
-  - bij diploide organismen zijn er twee kopieën van elk gen (vader en moeder) $\rightarrow$ opeenvolgende mutaties van 1 kopie mogelijk terwijl nog een andere functionele kopie is van het gen. 
-
+  - much more variation: recombination of chromosomes
+  - diploid organisms have two copies of each gene (father and mother) $\rightarrow$ successive mutations in 1 copy possible in the presence of another functional copy of the gene. 
+  
 </br>  
   
-- Eukaryote cellen evolueren verder in 
+- Eukaryotes evolve further in 
 
-  - protisten (eencelligen)
-  - planten
-  - dieren
-
-</br>  
-
-Genetische informatie van een soort kan ook worden gezien als een soort "logboek" van de milieus en ontwikkeling die ze heeft ondergaan tot dit punt. 
+  - protists (unicellular)
+  - fungae
+  - plants
+  - animals
 
 </br>  
 
-## Evolutie van evolutie
+Genetic information of a species can be seen as a record of the environments and development that it underwent up to this point 
 
-1. Chemische evolutie: selectie van bouwblokken en complexe chemie
-2. Biologische evolutie: cel/organisme $\rightarrow$ selectie genetische informatie and functie 
-3. Culturele evolutie die natuurlijke evolutie soms bypassed: 
+</br>  
+
+## Evolution of evolution
+
+1. Chemical evolution: selection of building blocks and complex chemistry
+2. Biological evolution: cell/organism $\rightarrow$ selection genetic information and function
+3. Cultural evolution can bypass natural evolution:
     
-    - artificiële selectie: plantenveredeling, huisdieren/vee, genetische manipulatie, ...
-    - Technologie: snelle aanpassing aan nieuw milieu, adaptatie van milieu 
+    - artificial selection: breeding of plants, pets, cattle, genetic manipulation, etc.
+    - Technology: fast adaptation to new environment
 
 </br>  
     
-# Ontogenese
-
-**Youtube Playlist (2 clips, totale afspeeltijd 20 min)**. De clips zijn ook afzonderlijk te bekijken bij elk onderdeel.
-<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
-<iframe 
-src="https://www.youtube.com/embed/videoseries?list=PLKAFO-HAp2GysTNvKUNIJiqrPa8J6zZW0" style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
-title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-</br>
-
+# Ontogenesis
 ## Intro {-}
-<div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
-<iframe
-src="https://www.youtube.com/embed/iuor4m6wOGY"
-frameborder="0"
-style=" position:absolute;top: 0;left: 0;width: 100%;height: 100%;"
-allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></iframe>
-</div>
-</br> 
+
 
 </br>
 <center>
@@ -907,16 +811,16 @@ allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></if
 
 </br>  
 
-- Ontogenese: ontwikkeling van een organisme van eicel tot overlijden van volwassen individu. 
+- Ontogenesis: development of organism from fertilized egg cell to adult individual until death 
 
-- Elke cel van meercellig organisme bevat zelfde erfelijk materiaal!
+- Each cell (except egg and sperm cell) of multi-cellular organism has same genetic material!
 
 
-- Waarom zijn cellen van zelfde organisme nu zo verschillend?
+- Why are cells of same organism so morphologically diverse? 
 
 </br>
 
-## Epigenetica 
+## Epigenetics
 
 ![](./figs/Epigenetic_mechanisms.png)  
 (Source: NIH, wikipedia)
@@ -928,13 +832,13 @@ allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></if
 
 </br>  
 
-- Differentiatie $\rightarrow$ epigenetica 
+- Differentiation $\rightarrow$ epigenetics
 
-- Epigenetica: epigenetische merkers op DNA en histonen $\rightarrow$ gen kan worden afgelezen of niet.
+- Epigenetics: epigenetic markers on DNA and histones $\rightarrow$ gene cam be transcribed or not. 
 
-- Epigenetica wordt beïnvoeld door ecofactoren. 
+- Epigenetics is driven by ecofactors. 
 
-- Eeneiige tweelingen zelfde genoom, verschillen steeds meer gedurende het leven: epigenetica
+- identical twins have almost the same genome (small differences have been build up in the womb), but it gets more easy to tell them apart over time: epigenetics
 
 
 </br> 
@@ -942,7 +846,7 @@ allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></if
 <center>
 ![](https://www.researchgate.net/profile/Tara-Hogenson/publication/320386487/figure/fig1/AS:783847914471429@1563895314907/dentical-twins-with-phenotypic-discordance-due-to-environmental-exposure-Although-MZ.png){width=50%}
 </center>
-(Verschil door ecofactor UV-blootstelling, Source: Swab & Hogenson, DOI: 10.1007/978-3-319-31143-2_65-1)
+(Difference due to eco-factor UV-exposure, Source: Swab & Hogenson, DOI: 10.1007/978-3-319-31143-2_65-1)
 
 </br> 
 
@@ -951,19 +855,19 @@ allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></if
 
 </br>  
 
-- Epigenetica heel belangrijk bij ontwikkeling van het brein en leren
+- Epigenetics is very important in development of the brain and for learning. 
 
 - Wiring of the brain: 
 
-    - Erfelijk
+    - Hereditary
     - Random
-    - Ecofactoren selecteren en amplificeren verbindingen
-    - Verbindingen die niet worden gebruikt verdwijnen
-    - Communicatie (via alle zintuigen) is key bij ontwikkeling van kinderbrein
+    - Ecofactors select and amplify connections
+    - Connections that are not used disappear
+    - Communication (trough all senses) is key in development of child brain
 
 </br>  
 
-## Ontogenese in Biodanza
+## Ontogenesis in Biodanza
 
 </br>  
 <div style="position: relative;width: 100%;height: 0;padding-bottom: 56.25%;">
@@ -981,72 +885,72 @@ allow="autoplay; encrypted-media" allowfullscreen data-external="1" start=8></if
 ![](./figs/biologischeAspectenBiodanzaDeelIII.png){width=50%}
 </center>
 
-- Ontogenese kan worden gezien als de tijdsas in het model!
+- Ontogenesis is the vertical axis and can be seen time axis in model!
 
-- Vivencia werkt sterk in op brein
-$\rightarrow$ de sensaties die we hierbij ervaren zijn afkomstig van de genen van allerlei hormonen en neurotransmitters die tot expressie worden gebracht. 
+- Vivencia has a strong impact on the brain
+$\rightarrow$ sensations that we experience are the genes that encode for a diverse scala of hormones and neurotransmitters that are being expressed. 
 
-- Langdurig beoefenenen van Biodanza kan epigenetica beïnvloeden en dus hoe genetisch potentieel wordt benut.
+- Long lasting practice of  Biodanza can induce epigenetic changes and thus how we can use our genetic potential. 
 
-- Onze tool? 
+- Our tool? 
   
-  - Regressie en identiteit in de 5 lijnen 
-  - de pulsatie tussen regressie en identiteit is nodig want een organisme filtert prikkels weg die continu zijn!  
+  - Regression and identity in the five lines of Biodanza. 
+  - Pulsation between regression and identity is essential because an organism tends to filter stimuli that are continuously present! 
   
   
-- Aangetoond dat mind-body technieken (meditatie, qigong, tai chi, yoga) celverjonging kunnen induceren door activatie van het gen dat codeert voor teleomerase (The telomere effect (Jonger worden), Nobelprijs winnares Elizabeth Blackburn en Elissa Epel)
+- It has been shown that mind-body methods (meditation, qigong, tai chi, yoga) can induce cell rejuvenation by the activation of the gene that encodes for teleomerase (The telomere effect, Nobel Price Winner Elizabeth Blackburn and Elissa Epel)
 
 </br>  
 
-# Slotopmerkingen 
+# Closing remarks 
 
-- Het leven is
-    - één
-    - chemie 
-    - informatie 
+- Life is
+    - one
+    - chemistry 
+    - information 
 
 </br>  
 
-- Het kosmische leven 
+- Cosmic life 
 
-    - In de sterren ontstonden de atomen van het leven 
+    - Atoms of life originated in the stars 
+
+    - In the dust of the stars the essential molecules and building blocks of life have been built, which are omnipresent in the cosmos. 
     
-    - In het stof van de sterren werden deze omgezet tot essentiële moleculen en bouwblokken van het leven die alom aanwezig in de kosmos
+    - Under the right conditions these building blocks structured them spontaneously in life as we know it. 
     
-    - Onder de juiste condities structureren deze bouwblokken zich spontaan tot leven zoals we dat kennen 
+    - First there was energy, then chemistry and finaly information: together they are life
     
-    - Eerst was er energie, toen kwam chemie en daarna informatie: samen zijn ze het leven
-    
-    - Vanuit de quantum mechanica en relativiteitstheorie zien we materie niet langer passief of inert maar          
+    - In quantum mechanics  and theory of relativity matter is nolonger seen as passive and inert    
         
-        - als een vorm van energie 
-        - met een dynamische natuur
-        - op atomaire schaal en subatomaire schaal is er heel veel leegte waarin er een continue dans en pulserende beweging is van electronen, protonen, neutronen, atomen en moleculen 
+        - but as a form of energy
+        - with a dynamic nature
+        - on atomic and subatomic scale there is a lot of void with a continuous dance and pulsation of electrons, protons, neurons, atoms and molecules
     
-    - Dualisme (materie, ziel) $\rightarrow$ monoisme (materie)  
+    - Dualism (matter, sole) $\rightarrow$ monoism (matter)  
     
-    - Het leven is een obligate manifestatie van materie die is geschreven in het weefsel van de kosmos (Christian de Duve)
+    - "Life is an obligatory manifestation of matter, written into the fabric of the universe" (Christian de Duve)
 
 
 </br>  
   
-- Organismen en leven kan niet worden bestudeerd los van hun intieme relatie met hun milieu/ecosysteem
+- Organisms and life cannot be studied without considering there intimate relation to their environment/ecosystem
 
-    - moleculen werken niet alleen maar in grote netwerken
-    - omgevingscondities zijn belangrijk voor zelforganisatie
-    - selectieve evolutie: selectie door ecofactoren 
-    - organismen veranderen/shapen ook op hun beurt het milieu en ecofactoren: denk maar aan de cyanobacteriën 
-    - individuele evolutie: ecofactoren $\leftrightarrow$ epigenetica 
-    - ecofactoren worden ook bepaald door andere organismen: ecosysteem
-    - Organismen interageren en werken samen in het ecosysteem
-    - Genetische informatie kan als het ware worden gezien als "logboek" van alle condities waarin onze voorouderlijke cellen hebben geleefd.  
+    - molecules do not work alone but in large networks
+    - environmental conditions are important for self organisation
+    - selective evolution: selection by eco-factors 
+    - organisms adapt/shape in turn their environment and eco-factor: e.g. cyanobacteria
+    - individual evolution: eco-factors $\leftrightarrow$ epigenetics 
+    - eco-factors are also determined by other organisms: eco-system
+    - Organisms interact and collaborate in their ecosystem
+    - Genetic information can be considered as the record of all conditions in which our ancestral cells have lived.   
       
       $\rightarrow$ "Web of Life" 
 
 </br>
 
-- Met Biodanza kunnen we de ontogenese beïnvloeden of 
-- Hoe onze genen worden gebruikt in onze cellen!
+- With Biodanza we can affect the ontogenesis or  
+- how our genes are used in our cells! 
 
 </br>
 
