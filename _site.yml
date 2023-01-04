@@ -1,6 +1,5 @@
 name: "Biodanza Brugge"
 navbar:
-  title: "Biodanza Brugge"
   left:
     - text: "Home"
       href: index.html
@@ -8,14 +7,16 @@ navbar:
       href: activiteiten.html
     - text: "Getuigenissen"
       href: getuigenissen.html
-  right:
     - text: "Systeem Biodanza"
       menu:
         - text: "Systeem Biodanza"
           href: systeemBiodanza.html
         - text: "Biodanza & Wetenschap"
           href: biodanzaEnWetenschap.html
-
+          
+  right:
+    - text: N-zicht
+      href: https://n-zicht.be
     - text: "Info & Contact"
       menu:
         - text: "Fien & Lieven"
