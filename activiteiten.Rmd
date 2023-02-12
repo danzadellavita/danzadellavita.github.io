@@ -8,7 +8,7 @@ output:
         code_folding: "none"
 ---
 
-![](./figs/2022-Biodanza-flyerWebsite-QRbiodanzabrugge.jpg)  
+![](./figs/activiteiten2023.png)  
 
 </br>
 Biodanza is een pad naar de vreugde in het leven  
