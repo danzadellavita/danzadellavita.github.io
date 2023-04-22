@@ -14,7 +14,19 @@ Meer info zie [activiteiten](./activiteiten.html)
 
 - Daggroep op dinsdag (Virginie): [schrijf in](./inschrijvenVirginie.html)
 
-- Verdiepingsgroep op woensdag (Fien & Lieven): na contact met Fien  [info@n-zicht.be](mailto:info@n-zicht.be) of of +32 486 52 41 56
+- Verdiepingsgroep op woensdag (Fien & Lieven): na contact met Fien  ([info@n-zicht.be](mailto:info@n-zicht.be) of +32 486 52 41 56)
+
+</br> 
+
+<table>
+<tr>
+<td width=66%>
+![](./figs/activiteiten2023.png)
+</td>
+<td width=34%>
+![](./figs/flyerVirginie.png)
+</td>
+</table>
 
 
 
