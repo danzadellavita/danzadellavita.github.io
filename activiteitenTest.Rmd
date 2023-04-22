@@ -25,21 +25,27 @@ Enkele getuigenissen vind je [hier](getuigenissen.html)
 
 </br>
 
-### Integratiegroep op maandag met Fien & Lieven 
+<a name="activiteitenFienLieven"></a>
 
+### Integratiegroep op maandag met Fien & Lieven 
 Benieuwd om Biodanza te ervaren? Je hebt helemaal geen bewegingservaring nodig of een lichaam die (nog) alles kan. De bewegingen, dans en houdingen komen van binnenuit. Enkel een hart die zich wenst te openen is de sleutel tot de Biodanza ervaring.  
 
 - Maandag van 19u30 tot $\pm$ 21u15
 - Lente 2023: 08/05, 15/05, 22/05, 05/06, 12/06, 19/06
+- Herfst 2023: 11/09, 18/09, 25/09, 02/10, 09/10, 16/10, 23/10, 06/11, 13/11, 20/11, 27/11, 04/12, 11/12, 18/12
+- €15/les met 3 of 10 beurtenkaart
 
 </br>
+
+<a name="activiteitenVirginie"></a>
 
 ### <span style="color:#AD441F">Nieuw!</span> Daggroep op dinsdag met Virginie 
 
 
-- Dinsdag van XXuXX tot $\pm$ XXuXX
-- Najaar 2023: 5/09, 12/09, 19/09, ...
-- Je hebt de kans om Biodanza met Viriginie te ontdekken via een eenmalig aanbod: 4 opeenvolgende lessen in September voor €50 
+- Dinsdag van 13u30 tot $\pm$ 15u30
+- Ontdekkingsreeks (vier keer): 12/09, 19/09, 26/09, 10/10 (geen sessie op 03/10) -- €55 
+- Herfstreeks (10 keer): 10/10, 17/10, 24/10, 7/11, 14/11, 21/11, 28/11, 05/12, 12/12, 19/12 -- €150
+- Winterreeks (10 keer):  09/01, 16/01, 23/01, 30/01, 6/02, 20/02, 27/02, 05/03, 12/03, 19/03 -- €150
 
 </br>
 
@@ -47,35 +53,47 @@ Benieuwd om Biodanza te ervaren? Je hebt helemaal geen bewegingservaring nodig o
 
 - Woensdag van 20u tot $\pm$ 21u45
 - Lente 2023: 19/04, 26/04, 03/05, 10/05, 17/05, 24/05, 31/05, 07/06, 14/06, 21/06, 28/06
-
+- Herfst 2023: 13/09, 20/09, 27/09, 04/10, 11/10, 18/10, 25/10, 08/11, 15/11, 22/11, 29/11, 06/12, 13/12, 20/12
+- €15/les met 3 of 10 beurtenkaart
  
 
 </br>
 
 ### Deelnemen
 
-  - Speciaal Aanbod! 4 lessen in September met de daggroep €50 (Virginie)
-  - 10-beurtenkaart €150 (Fien & Lieven)
-  - 3-beurtenkaart €45 (3 opeenvolgende lessen, Fien & Lieven)
-  - Instromen in de verdiepingsgroep kan als je al ervaring hebt met Biodanza. Neem je dan eerst even contact op met Fien? [info@n-zicht.be](mailto:info@n-zicht.be) 
+  - Virginie 
+    - Ontdekkingsreeks van 4 lessen met de daggroep €55 
+    - lessenreeksen met 10 lessen €150 
+
+</br> 
+
+  - Fien & Lieven 
+    - 10-beurtenkaart €150: geldig voor lessen in alle reeksen
+    - 3-beurtenkaart €45: 3 opeenvolgende lessen
+    - Instromen in de verdiepingsgroep kan als je al ervaring hebt met Biodanza. Neem je dan eerst even contact op met Fien?[info@n-zicht.be](mailto:info@n-zicht.be) 
 
 </br>
 
 ### Waar? 
 
-Centrum Xaverianen,  
+Centrum Xaverianen (Fien & Lieven),  
 Polyvalente zaal A  
 Xaverianenstraat 3,  
 8200 Sint-Michiels
 
-![](https://www.brugge.be/files/uploads/imagecache/Origineel/images/news/xaverianen_ingang.jpg){width=40%}
-
 </br>
+
+Co-housing Eikenberg (Virginie)    
+Eikenberg 27/A         
+8310 Sint-Kruis
+
+</br> 
 
 ### Wanneer? 
 
 - Integratiegroep: maandag van 19u30u tot $\pm$ 21u15 (Fien & Lieven).
-- Daggroep: dinsdag van xxuxx tot $\pm$ xxuxx (Virginie). 
+
+- Daggroep: dinsdag van 13u30 tot $\pm$ 15u30 (Virginie). 
 - Verdiepingsgroep: woensdag van 20u tot $\pm$ 21u45 (Fien & Lieven).
 
 </br>
@@ -91,6 +109,6 @@ Xaverianenstraat 3,
 ### Inschrijven 
 
 - Integratiegroep op maandag (Fien & Lieven): [klik hier om in te schrijven](./inschrijvenIntegratieGroep.html)
-- Daggroep op dinsdag (Virginie): klik hier om in te schrijven
+- Daggroep op dinsdag (Virginie): [klik hier om in te schrijven](./inschrijvenVirginie.html)
 - Verdiepingsgroep op woensdag (Fien & Lieven): na contact met Fien [info@n-zicht.be](mailto:info@n-zicht.be) 
 
