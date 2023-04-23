@@ -20,11 +20,13 @@ navbar:
     - text: "Info & Contact"
       menu:
         - text: "Fien & Lieven"
-          href: about.html
+          href: "about.html"
+        - text: "Virginie"
+          href: "virginie.html"
         - text: "Inschrijven"
           href: "inschrijven.html"
         - text: "Contact"
-          href: contact.html
+          href: "contact.html"
         - text: "Google Maps"
           href: "map.html"
 
