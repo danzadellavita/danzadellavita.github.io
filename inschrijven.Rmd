@@ -10,6 +10,8 @@ output:
 
 Meer info zie [activiteiten](./activiteiten.html)
 
+- Zomerlessen op maandag (Fien & Lieven): [schrijf in](./inschrijvenZomerLessen.html)
+
 - Integratiegroep op maandag (Fien & Lieven): [schrijf in](./inschrijvenIntegratieGroep.html)
 
 - Daggroep op dinsdag (Virginie): [schrijf in](./inschrijvenVirginie.html)
