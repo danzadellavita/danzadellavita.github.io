@@ -8,7 +8,7 @@ output:
         code_folding: "none"
 ---
 
-![](./figs/dansenAchtergrond2022_small.jpg)
+![](./figs/biodanzaCircle.jpg)
 
 </br>
 
