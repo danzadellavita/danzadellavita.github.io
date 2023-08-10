@@ -8,7 +8,7 @@ output:
         code_folding: "none"
 ---
 
-![](./figs/biodanzaCircle.jpg)
+![](./figs/biodanzaCircleSmall.jpg)
 
 </br>
 
