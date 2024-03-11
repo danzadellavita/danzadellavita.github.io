@@ -14,7 +14,7 @@ output:
 <tr>
 <td width=30% style="vertical-align: top;">![](./figs/fien.jpeg)</td> 
 <td width=5%></td>
-<td style="vertical-align: top;">Biodanza docent onder supervisie van Annette Heynderickx  
+<td style="vertical-align: top;">Biodanza docent   
 Erkend Bach Bloesem Consulent en Lichaamsgericht Therapeut  
 Veldstraat 39, 8200 Sint-Michiels (Brugge)  
 GSM: +32 486 52 41 56  
@@ -48,6 +48,7 @@ mail: [virginie.reina@gmail.com](mailto:virginie.reina@gmail.com)
 <td width=30% style="vertical-align: top;">![](./figs/lieven.jpg)</td> 
 <td width=5%></td>
 <td style="vertical-align: top;">
+Biodanza docent  
 Professor of Statistical Genomics  
 Veldstraat 39, 8200 Sint-Michiels (Brugge)  
 GSM: +32 486 62 53 96  
