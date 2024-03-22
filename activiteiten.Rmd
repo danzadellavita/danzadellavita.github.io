@@ -33,6 +33,7 @@ Enkele getuigenissen vind je [hier](getuigenissen.html)
 
 </br>
 
+<!--
 <a name="bloomDudzele"></a>
 
 ### <span style="color:#AD441F"> Nieuw! </span>  Biodanza sessie met Fien op Bloom Fair in Dudzele op 18/2 
@@ -56,6 +57,7 @@ Liefs, Fien
 - Meer info en inschrijven kan via dit Google formulier: https://forms.gle/TANyN1SoYH6t8NRZ9 
 - Voor mensen die inschrijven voor de infonamiddag en de verdediging voorzien we een snelle hap tussenin. 
 - Achteraf voorzien we ook een hapje en drankje om het afstuderen te vieren. 
+-->
 
 <a name="activiteitenFienLieven"></a>
 
