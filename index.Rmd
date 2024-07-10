@@ -9,11 +9,12 @@ output:
 ---
 
 ![](./figs/biodanzaCircleSmall.jpg)
-<!--
+
 </br>
 
-### <span style="color:#AD441F"> Nieuw! </span>  Biodanza sessie met Fien op Bloom Fair in Dudzele op 18/2 met kortingscode - meer [info](./activiteiten.html#bloomDudzele)
+### <span style="color:#AD441F"> Nieuw! </span>  Zomer Biodanza met Virginie, Fien & Lieven [meer info](./activiteiten.html#zomerbiodanza)
 
+<!--
 ### <span style="color:#AD441F"> Nieuw! </span>  Voordracht Eindwerk Lieven -- Biologische Aspecten van Biodanza op 02/03 - meer [info](./activiteiten.html#verdedigingLieven)
 -->
 
