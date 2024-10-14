@@ -1,5 +1,5 @@
 ---
-title: "Inschrijven ontdekkingsreeks (3 keer) en reeksen (10 keer) met Viriginie"
+title: "Inschrijven bij Viriginie met 3 of 10-beurtenkaart"
 output:
     html_document:
         code_download: false
