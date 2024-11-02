@@ -39,7 +39,7 @@ Dat doen we via dans, beweging en muziek in een diep contact met jezelf, de ande
 <img src="./figs/rustpuntBoomgaard2.png" alt="drawing" width="33%"/>
 
 <center>
-![](./figs/logoBiodanza.png){width=25%}
+![](./figs/logoBiodanza.png){width=20%}
 </center>
 
 ### Inschrijven
