@@ -31,7 +31,7 @@ Voel je het verlangen om te dansen en te bewegen vanuit jouw krachtige, speelse,
 
 Enkele getuigenissen vind je [hier](getuigenissen.html)
 
-</br>
+---
 
 <!--
 <a name="bloomDudzele"></a>
@@ -84,6 +84,14 @@ Zin om mee te dansen?
 
 -->
 
+### <span style="color:#AD441F">Nieuw!</span>  Biodanza Driedaagse Identiteit & de Vier Elementen met Fien & Lieven 
+
+<img src="./figs/uitnodigingVierElementen5.png" alt="drawing" width="100%"/>
+
+[Klik hier voor meer info](./vierElementen.html)
+
+---
+
 <a name="activiteitenFienLieven"></a>
 
 ### Integratiegroep op maandag met Fien & Lieven 
@@ -101,7 +109,8 @@ Benieuwd om Biodanza te ervaren? Je hebt helemaal geen bewegingservaring nodig o
 - €15/les met 3 of 10 beurtenkaart
 - [Klik hier om in te schrijven](./inschrijvenIntegratieGroep.html)
 
-</br>
+---
+
 
 <a name="activiteitenVirginie"></a>
 
@@ -122,7 +131,7 @@ Benieuwd om Biodanza te ervaren? Je hebt helemaal geen bewegingservaring nodig o
 -->
 - [Klik hier om in te schrijven](./inschrijvenVirginie.html)
 
-</br>
+---
 
 ### Verdiepingsgroep op woensdag met Fien & Lieven 
 
@@ -136,7 +145,7 @@ Benieuwd om Biodanza te ervaren? Je hebt helemaal geen bewegingservaring nodig o
 - €15/les met 3 of 10 beurtenkaart
 - Inschrijven na contact met Fien  ([info@n-zicht.be](mailto:info@n-zicht.be) of +32 486 52 41 56)
 
-</br>
+---
 
 ### Deelnemen
 
@@ -151,7 +160,7 @@ Benieuwd om Biodanza te ervaren? Je hebt helemaal geen bewegingservaring nodig o
     - 3-beurtenkaart -- €45: 3 opeenvolgende lessen bij Fien & Lieven
     - Instromen in de verdiepingsgroep kan als je al ervaring hebt met Biodanza. Neem je dan eerst even contact op met Fien? [info@n-zicht.be](mailto:info@n-zicht.be) of +32 486 52 41 56
 
-</br>
+---
 
 ### Waar? 
 
@@ -166,7 +175,7 @@ Co-housing Eikenberg (Virginie)
 Eikenberg 27/A         
 8310 Sint-Kruis
 
-</br> 
+---
 
 ### Wanneer? 
 
@@ -174,7 +183,7 @@ Eikenberg 27/A
 - Daggroep: dinsdag van 13u30 tot $\pm$ 15u30 (Virginie). 
 - Verdiepingsgroep: woensdag van 19u30u tot $\pm$ 21u15 (Fien & Lieven).
 
-</br>
+---
 
 ### Wat heb je nodig? 
 
@@ -182,7 +191,7 @@ Eikenberg 27/A
   - een flesje water, en
   - kledij waar je vrij in kan bewegen
   
-</br>
+---
 
 ### Inschrijven 
 
