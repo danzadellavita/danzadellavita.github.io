@@ -42,6 +42,9 @@ Dat doen we via dans, beweging en muziek in een diep contact met jezelf, de ande
 ![](./figs/logoBiodanza.png){width=20%}
 </center>
 
+[<button type="attribute">IK SCHRIJF ME IN</button>](https://docs.google.com/forms/d/e/1FAIpQLScevr0Ww7FtogQq5zZfOPjmvRDnDH8I5aoy2u6fQDw9RdThCA/viewform?usp=sharing)
+<!--
 ### Inschrijven
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScevr0Ww7FtogQq5zZfOPjmvRDnDH8I5aoy2u6fQDw9RdThCA/viewform?embedded=true" width="640" height="1663" frameborder="0" marginheight="0" marginwidth="0">Laden…</iframe>
+-->

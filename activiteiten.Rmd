@@ -106,8 +106,9 @@ Benieuwd om Biodanza te ervaren? Je hebt helemaal geen bewegingservaring nodig o
 - Lente 2024: 15/04, 22/04, 29/04, 06/05, 13/05, 27/05, 03/06
 -->
 
-- €15/les met 3 of 10 beurtenkaart
-- [Klik hier om in te schrijven](./inschrijvenIntegratieGroep.html)
+- €15/les met 3 of 10 beurtenkaart   
+
+[<button type="attribute">IK SCHRIJF ME IN</button>](https://docs.google.com/forms/d/e/1FAIpQLSd2dkSJv37Rs-5_Hu0SLuAw2dsyyqJxzkj5zpcEtANVAFqH1g/viewform?usp=sharing)
 
 ---
 
@@ -129,7 +130,7 @@ Benieuwd om Biodanza te ervaren? Je hebt helemaal geen bewegingservaring nodig o
 
 <!--
 -->
-- [Klik hier om in te schrijven](./inschrijvenVirginie.html)
+[<button type="attribute">IK SCHRIJF ME IN</button>](./inschrijvenVirginie.html)
 
 ---
 
@@ -198,7 +199,7 @@ Eikenberg 27/A
 <!-- 
 - Zomerlessen op maandag (Fien & Lieven): [klik hier om in te schrijven](./inschrijvenZomerLessen.html)
 -->
-- Integratiegroep op maandag (Fien & Lieven): [klik hier om in te schrijven](./inschrijvenIntegratieGroep.html)
-- Daggroep op dinsdag (Virginie): [klik hier om in te schrijven](./inschrijvenVirginie.html)
+- Integratiegroep op maandag (Fien & Lieven): [<button type="attribute">IK SCHRIJF ME IN</button>](https://docs.google.com/forms/d/e/1FAIpQLSd2dkSJv37Rs-5_Hu0SLuAw2dsyyqJxzkj5zpcEtANVAFqH1g/viewform?usp=sharing)
+- Daggroep op dinsdag (Virginie): [<button type="attribute">IK SCHRIJF ME IN</button>](./inschrijvenVirginie.html)
 - Verdiepingsgroep op woensdag (Fien & Lieven): na contact met Fien  ([info@n-zicht.be](mailto:info@n-zicht.be) of +32 486 52 41 56)
 
