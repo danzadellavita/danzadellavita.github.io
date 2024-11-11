@@ -88,7 +88,7 @@ Zin om mee te dansen?
 
 <img src="./figs/uitnodigingVierElementen5.png" alt="drawing" width="100%"/>
 
-[Klik hier voor meer info](./vierElementen.html)
+[<button type="attribute">Meer Info</button>](./vierElementen.html)
 
 ---
 
