@@ -12,7 +12,7 @@ output:
 
 </br>
 
-### <span style="color:#AD441F"> Nieuw! </span>  Biodanza Driedaagse Identiteit & de Vier Elementen met Fien & Lieven - meer [info](./vierElementen.html)
+### <span style="color:#AD441F"> Nieuw! </span>  Biodanza Driedaagse Identiteit & de Vier Elementen met Fien & Lieven - [<button type="attribute"> meer info</button>](./vierElementen.html)
 <img src="./figs/uitnodigingVierElementen5.png" alt="drawing" width="100%"/>
 
 
