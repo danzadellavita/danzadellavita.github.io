@@ -8,7 +8,19 @@ output:
         code_folding: "none"
 ---
 
-![](./figs/biodanzaCircleSmall.jpg)
+<video controls width="100%" Autoplay>
+<source src="./figs/IMG_2766.m4v" type="video/mp4" />
+<track
+    src="./figs/IMG_2766.m4v"
+    label="NL"
+    kind="captions"
+    srclang="nl" 
+    default />
+<p>![](./figs/biodanzaCircleSmall.jpg)</p>
+
+</video>
+
+<!--![](./figs/biodanzaCircleSmall.jpg)-->
 
 </br>
 
