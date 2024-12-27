@@ -37,17 +37,12 @@ h2 {
   -webkit-text-stroke-color:  #c77986;
 }
 	
-#header h1,h2{
+#header h1, h2{
  color: #c77986;
  text-align:center;
  display:inline-block;
  position:relative;
  width:100%;
- font-family: "Open Sans", Helvetica, sans-serif;
- font-size: 15pt;
- font-weight: 400;
- letter-spacing: 0.075em;
- line-height: 1.65em;
 }	
 
 .wrapper.style1 {
@@ -110,6 +105,7 @@ body.landing #footer {
 
 #header {
   background: #FDF1EF;/*transparent;*//*#2e3842;*/
+  height: 0em;
 }
 
 
