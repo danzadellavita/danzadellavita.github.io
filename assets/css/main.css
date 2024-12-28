@@ -10,10 +10,10 @@
 }
 
 body.landing #page-wrapper {
-		background-image: url("../../images/biodanzaCircle.jpeg");
-		background-image: url("../../images/biodanzaCircle.jpeg");
-		background-image: url("../../images/biodanzaCircle.jpeg");
-		background-image: url("../../images/biodanzaCircle.jpeg");
+		background-image: url("../../images/biodanzaCircleSmallNoWhite.jpg");
+		background-image: url("../../images/biodanzaCircleSmallNoWhite.jpg");
+		background-image: url("../../images/biodanzaCircleSmallNoWhite.jpg");
+		background-image: url("../../images/biodanzaCircleSmallNoWhite.jpg");
 }
 
 body.is-mobile.landing #banner {
@@ -32,10 +32,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
 color: #38181E;}
 
-h2 {
-  -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color:  #c77986;
-}
+
 	
 #header h1,h2{
  color: #c77986;
