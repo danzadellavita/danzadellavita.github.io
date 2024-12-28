@@ -50,12 +50,12 @@ h2 {
  line-height: 1.65em;
 }	
 
-#header h1-is.is-mobile{
+
+
+@media screen and (max-width: 980px) {
+#header h1,h2{
    font-size: 12pt;
 }
-
-#header h2-is.is-mobile{
-   font-size: 12pt;
 }
 
 
