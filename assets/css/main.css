@@ -94,14 +94,14 @@ h2 {
 
 #banner {
   color:#FFF1E9;
-    -webkit-text-stroke-width: .2px;
-  -webkit-text-stroke-color:  #c77986;
+  /*  -webkit-text-stroke-width: .2px;*/
+  /*-webkit-text-stroke-color:  #c77986;*/
 }
 
 #banner h2{
   color:#FFF1E9;
-  -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color:  #c77986;
+  -webkit-text-stroke-width: 0px;
+  -webkit-text-stroke-color:  #FFFFFF/*#c77986;*/
 }
 		
 body.landing #footer {
@@ -123,9 +123,8 @@ body.landing #footer {
 
 
 #header {
-  background: #FDF1EF;/*transparent;*//*#2e3842;*/
+  background: rgba(253, 241, 239,.95);/*transparent;*//*#2e3842;*/ 
 }
-
 
 #footer {
 		/*background-color: #CAABA8;/*#1d242a;*/
@@ -143,9 +142,10 @@ article h2{
 
 
 .wrapper.style3 {
-			background-color: rgba(255,241,233,.8);/*#504f4b;*/
+			background-color: rgba(253,241,239,.95);/*#504f4b;*/
 			color: #38181E;/*#d0ccc2;*/
 	}
+
 
 	body.is-menu-visible #page-wrapper {
 		opacity: 1;
