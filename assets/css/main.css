@@ -17,10 +17,10 @@ body.landing #page-wrapper {
 }
 
 body.is-mobile.landing #banner {
-		background-image: url("../../images/biodanzaCircleSmall.jpg");
-		background-image: url("../../images/biodanzaCircleSmall.jpg");
-		background-image: url("../../images/biodanzaCircleSmall.jpg");
-		background-image: url("../../images/biodanzaCircleSmall.jpg");
+		background-image: url("../../images/biodanzaCircleSmallNoWhite.jpg");
+		background-image: url("../../images/biodanzaCircleSmallNoWhite.jpg");
+		background-image: url("../../images/biodanzaCircleSmallNoWhite.jpg");
+		background-image: url("../../images/biodanzaCircleSmallNoWhite.jpg");
 }
 
 body {
