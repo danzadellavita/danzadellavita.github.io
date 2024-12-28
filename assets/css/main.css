@@ -50,6 +50,15 @@ h2 {
  line-height: 1.65em;
 }	
 
+#header h1-is.is-mobile{
+   font-size: 12pt;
+}
+
+#header h2-is.is-mobile{
+   font-size: 12pt;
+}
+
+
 .wrapper.style1 {
 			background-color: #FDF1EF;/*#504f4b;*/
 			color: #38181E;/*#d0ccc2;*/
