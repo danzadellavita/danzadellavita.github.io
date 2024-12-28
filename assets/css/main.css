@@ -51,10 +51,15 @@ h2 {
 }	
 
 
+@media screen and (max-width: 1280px) {
+#header h1,h2{
+   font-size: 12pt;
+}
+}
 
 @media screen and (max-width: 980px) {
 #header h1,h2{
-   font-size: 12pt;
+   font-size: 10pt;
 }
 }
 
