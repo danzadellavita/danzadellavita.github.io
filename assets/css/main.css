@@ -93,13 +93,13 @@ h2 {
 }
 
 #banner {
-  color: #c77986 /*#FFF1E9;*/
+  color: #FFF1E9;/*#c77986; */
   /*  -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color:  #FFFFFF;/*#c77986;*/
 }
 
 #banner h2{
-  color: #c77986 /*#FFF1E9;*/
+  color: #FFF1E9;/*#c77986*/ 
   /*-webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color:  #FFFFFF;/*#c77986;*/
 }
