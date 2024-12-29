@@ -11,18 +11,18 @@
 }
 
 body.landing #page-wrapper {
-		background-image: url("../../images/biodanzaCircleSmall.jpg");
-		background-image: url("../../images/biodanzaCircleSmall.jpg");
-		background-image: url("../../images/biodanzaCircleSmall.jpg");
-		background-image: url("../../images/biodanzaCircleSmall.jpg");
+		background-image: url("../../images/biodanzaCircleSmallNoWhite2.jpg");
+		background-image: url("../../images/biodanzaCircleSmallNoWhite2.jpg");
+		background-image: url("../../images/biodanzaCircleSmallNoWhite2.jpg");
+		background-image: url("../../images/biodanzaCircleSmallNoWhite2.jpg");
 		background-position: top;/**/
 }
 
 body.is-mobile.landing #banner {
-		background-image: url("../../images/biodanzaCircleSmallNoWhite.jpg");
-		background-image: url("../../images/biodanzaCircleSmallNoWhite.jpg");
-		background-image: url("../../images/biodanzaCircleSmallNoWhite.jpg");
-		background-image: url("../../images/biodanzaCircleSmallNoWhite.jpg");
+		background-image: url("../../images/biodanzaCircleSmallNoWhite2.jpg");
+		background-image: url("../../images/biodanzaCircleSmallNoWhite2.jpg");
+		background-image: url("../../images/biodanzaCircleSmallNoWhite2.jpg");
+		background-image: url("../../images/biodanzaCircleSmallNoWhite2.jpg");
 }
 
 body {
@@ -93,7 +93,7 @@ color: #38181E;}
 
 #banner {
   color: #FFF1E9;/*#c77986; */
-  background-color: rgba(173,68,31,.3);/**//*rgba(237,73,51,.2);*//*rgba(199,121,134,.2);*/
+  /*background-color: rgba(173,68,31,.3);/**//*rgba(237,73,51,.2);*//*rgba(199,121,134,.2);*/
 }
 
 
@@ -123,7 +123,7 @@ body.landing #footer {
 
 
 #header {
-  background: rgba(253, 241, 239,.95);/*transparent;*//*#2e3842;*/ 
+  background: rgba(253, 241, 239,.85);/*transparent;*//*#2e3842;*/ 
 }
 
 #footer {
@@ -142,7 +142,7 @@ article h2{
 
 
 .wrapper.style3 {
-			background-color: rgba(253, 241, 239,.95);/*#504f4b;*/
+			background-color: rgba(253, 241, 239,.85);/*#504f4b;*/
 			color: #38181E;/*#d0ccc2;*/
 	}
 
@@ -175,4 +175,26 @@ list-style-position: inside;
 a {
   border-bottom: none;
   color:#AD441F;
+}
+
+#page-wrapper {
+padding-top: 0em;
+}
+
+#page-wrapper {
+padding-top: 0em;
+}
+
+#footer {
+				padding-top: 3em;
+				padding-bottom: 3em;
+			}
+			
+.wrapper {
+padding-top: 2.5em;
+padding-bottom: 1em;
+}
+
+ul {
+  		margin: 0 0 1em 0;
 }
