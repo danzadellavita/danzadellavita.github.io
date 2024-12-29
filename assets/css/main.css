@@ -11,18 +11,18 @@
 }
 
 body.landing #page-wrapper {
-		background-image: url("../../images/biodanzaCircleSmallNoWhite2.jpg");
-		background-image: url("../../images/biodanzaCircleSmallNoWhite2.jpg");
-		background-image: url("../../images/biodanzaCircleSmallNoWhite2.jpg");
-		background-image: url("../../images/biodanzaCircleSmallNoWhite2.jpg");
+		background-image: url("../../images/biodanzaCircleSmallNoWhite3.jpg");
+		background-image: url("../../images/biodanzaCircleSmallNoWhite3.jpg");
+		background-image: url("../../images/biodanzaCircleSmallNoWhite3.jpg");
+		background-image: url("../../images/biodanzaCircleSmallNoWhite3.jpg");
 		background-position: top;/**/
 }
 
 body.is-mobile.landing #banner {
-		background-image: url("../../images/biodanzaCircleSmallNoWhite2.jpg");
-		background-image: url("../../images/biodanzaCircleSmallNoWhite2.jpg");
-		background-image: url("../../images/biodanzaCircleSmallNoWhite2.jpg");
-		background-image: url("../../images/biodanzaCircleSmallNoWhite2.jpg");
+		background-image: url("../../images/biodanzaCircleSmallNoWhite3.jpg");
+		background-image: url("../../images/biodanzaCircleSmallNoWhite3.jpg");
+		background-image: url("../../images/biodanzaCircleSmallNoWhite3.jpg");
+		background-image: url("../../images/biodanzaCircleSmallNoWhite3.jpg");
 }
 
 body {
