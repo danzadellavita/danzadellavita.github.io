@@ -170,3 +170,7 @@ list-style-position: inside;
 #header.alt {
   /*background:  rgba(253, 241, 239,.8);/*transparent;*//*#2e3842;*/ 
 }
+
+@media screen and (min-width: 600px)  {
+.mobile-break { display: none; }
+}
