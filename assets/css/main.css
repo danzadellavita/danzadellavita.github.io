@@ -10,17 +10,18 @@
 }
 
 body.landing #page-wrapper {
-		background-image: url("../../images/biodanzaCircleSmallNoWhite.jpg");
-		background-image: url("../../images/biodanzaCircleSmallNoWhite.jpg");
-		background-image: url("../../images/biodanzaCircleSmallNoWhite.jpg");
-		background-image: url("../../images/biodanzaCircleSmallNoWhite.jpg");
+		background-image: url("../../images/biodanzaCircleSmall.jpg");
+		background-image: url("../../images/biodanzaCircleSmall.jpg");
+		background-image: url("../../images/biodanzaCircleSmall.jpg");
+		background-image: url("../../images/biodanzaCircleSmall.jpg");
+		background-position: top;/**/
 }
 
 body.is-mobile.landing #banner {
-		background-image: url("../../images/biodanzaCircleSmallNoWhite.jpg");
-		background-image: url("../../images/biodanzaCircleSmallNoWhite.jpg");
-		background-image: url("../../images/biodanzaCircleSmallNoWhite.jpg");
-		background-image: url("../../images/biodanzaCircleSmallNoWhite.jpg");
+		background-image: url("../../images/biodanzaCircleSmall.jpg");
+		background-image: url("../../images/biodanzaCircleSmall.jpg");
+		background-image: url("../../images/biodanzaCircleSmall.jpg");
+		background-image: url("../../images/biodanzaCircleSmall.jpg");
 }
 
 body {
@@ -91,13 +92,12 @@ color: #38181E;}
 
 #banner {
   color: #FFF1E9;/*#c77986; */
-  /*  -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color:  #FFFFFF;/*#c77986;*/
+  background-color: rgba(173,68,31,.3);/**//*rgba(237,73,51,.2);*//*rgba(199,121,134,.2);*/
 }
 
 #banner h2{
-  color: #FFF1E9;/*#c77986*/ 
-  /*-webkit-text-stroke-width: 1px;
+  color: #FFF1E9;/*#c77986;*/ 
+/*-webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color:  #FFFFFF;/*#c77986;*/
 }
 		
@@ -139,7 +139,7 @@ article h2{
 
 
 .wrapper.style3 {
-			background-color: rgba(253,241,239,.95);/*#504f4b;*/
+			background-color: rgba(253, 241, 239,.95);/*#504f4b;*/
 			color: #38181E;/*#d0ccc2;*/
 	}
 
@@ -155,4 +155,16 @@ body.is-mobile.landing #footer {
 ul
 {
 list-style-position: inside;
+}
+
+#header.alt nav > ul > li > a {
+  color: #c77986;
+}
+
+#header.alt nav > ul > li > a.menuToggle:after {
+  background-image: url("images/bars_pink.svg");
+}
+
+#header.alt {
+  /*background:  rgba(253, 241, 239,.8);/*transparent;*//*#2e3842;*/ 
 }
