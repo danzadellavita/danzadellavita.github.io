@@ -18,10 +18,10 @@ body.landing #page-wrapper {
 }
 
 body.is-mobile.landing #banner {
-		background-image: url("../../images/biodanzaCircleSmall.jpg");
-		background-image: url("../../images/biodanzaCircleSmall.jpg");
-		background-image: url("../../images/biodanzaCircleSmall.jpg");
-		background-image: url("../../images/biodanzaCircleSmall.jpg");
+		background-image: url("../../images/biodanzaCircleSmallNoWhite.jpg");
+		background-image: url("../../images/biodanzaCircleSmallNoWhite.jpg");
+		background-image: url("../../images/biodanzaCircleSmallNoWhite.jpg");
+		background-image: url("../../images/biodanzaCircleSmallNoWhite.jpg");
 }
 
 body {
@@ -95,9 +95,6 @@ color: #38181E;}
   background-color: rgba(173,68,31,.3);/**//*rgba(237,73,51,.2);*//*rgba(199,121,134,.2);*/
 }
 
-body.is-mobile.landing #banner{
-    background-color: rgba(173,68,31,.3);/**//*rgba(237,73,51,.2);*//*rgba(199,121,134,.2);*/
-}
 
 
 #banner h2{
