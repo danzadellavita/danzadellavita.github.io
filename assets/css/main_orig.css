@@ -3979,9 +3979,9 @@ input, select, textarea {
 		background-color: rgba(29, 36, 42, 0.9);
 	}
 
-	body.is-mobile.landing #page-wrapper {
+/*	body.is-mobile.landing #page-wrapper {
 		background: none;
-	}
+	}*/
 
 	body.is-mobile.landing #banner,
 	body.is-mobile.landing .wrapper.style4 {
