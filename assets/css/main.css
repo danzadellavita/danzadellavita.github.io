@@ -109,9 +109,10 @@ color: #38181E;}
 
 
 #banner h2{
-  color: #FFF1E9;/*#c77986;*/ 
-/*-webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color:  #FFFFFF;/*#c77986;*/
+  color: #FFF1E9;/**//*#c77986;/**/ 
+  /*font-weight: 600;*/
+-webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color:  
 }
 		
 body.landing #footer {
@@ -171,11 +172,11 @@ list-style-position: inside;
 }
 
 #header.alt nav > ul > li > a {
-  color: #c77986;
+  color: #FFF1E9;/**//*#c77986;*/
 }
 
 #header.alt nav > ul > li > a.menuToggle:after {
-  background-image: url("images/bars_pink.svg");
+  background-image: url("images/bars_lightpink.svg");
 }
 
 #header.alt {
