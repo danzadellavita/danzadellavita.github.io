@@ -11,19 +11,24 @@
 }
 
 body.landing #page-wrapper {
-		background-image: url("../../images/biodanzaCircleSmallNoWhite3.jpg");
+/*		background-image: url("../../images/biodanzaCircleSmallNoWhite3.jpg");
 		background-image: url("../../images/biodanzaCircleSmallNoWhite3.jpg");
 		background-image: url("../../images/biodanzaCircleSmallNoWhite3.jpg");
 		background-image: url("../../images/biodanzaCircleSmallNoWhite3.jpg");
 		background-position: top;/**/
+		background-image: url("../../images/biodanzaCircleSmall2.jpeg");
+		background-image: url("../../images/biodanzaCircleSmall2.jpeg");
+		background-image: url("../../images/biodanzaCircleSmall2.jpeg");
+		background-image: url("../../images/biodanzaCircleSmall2.jpeg");
+		background-position: top;
 }
 
-body.is-mobile.landing #banner {
+/*body.is-mobile.landing #banner {
 		background-image: url("../../images/biodanzaCircleSmallNoWhite2.jpg");
 		background-image: url("../../images/biodanzaCircleSmallNoWhite2.jpg");
 		background-image: url("../../images/biodanzaCircleSmallNoWhite2.jpg");
 		background-image: url("../../images/biodanzaCircleSmallNoWhite2.jpg");
-}
+}*/
 
 body {
 		background: #FDF1EF;
@@ -92,7 +97,7 @@ color: #38181E;}
 }
 
 #banner {
-  color: #FFF1E9;/*#c77986; */
+  color: #FFF1E9;/**//*#c77986; /**/
   /*background-color: rgba(173,68,31,.3);/**//*rgba(237,73,51,.2);*//*rgba(199,121,134,.2);*/
 }
 
