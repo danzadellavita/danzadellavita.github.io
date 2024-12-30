@@ -44,6 +44,8 @@ body.is-mobile.landing #banner {
 		background-image: url("../../images/biodanzaCircleSmall.jpg");
 		background-image: url("../../images/biodanzaCircleSmall.jpg");
 		background-position: top;/**/
+		background-color: rgba(173,68,31,.1);/**//*rgba(237,73,51,.2);*//*rgba(199,121,134,.2);/**/
+
 }
 
 body {
