@@ -122,9 +122,9 @@ color: #38181E;}
 
 #banner h2{
   color: #FDF1EF;/**//*#c77986;/**/ 
-  /*font-weight: 600;*/
--webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color:  
+ /* font-weight: 100;*/
+/*-webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color:  */
 }
 		
 body.landing #footer {
