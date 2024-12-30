@@ -185,7 +185,7 @@ list-style-position: inside;
 
 a {
   border-bottom: none;
-  color:#AD441F;
+  color:/*#c77986;/**/#AD441F;/**/
 }
 
 #page-wrapper {
