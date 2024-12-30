@@ -1,4 +1,8 @@
 @import "main_orig.css";
+@font-face {
+    font-family: 'BlackJackReg'; /*a name to be used later*/
+    src: url('./black_jack.ttf'); /*URL to font*/
+}
 
 #main > header {
 		padding: 15em 0 10em 0 ;
@@ -6,6 +10,20 @@
 		background-image: url("../../images/biodanzaCircleSmall.jpg");
 		background-image: url("../../images/biodanzaCircleSmall.jpg");
 		background-image: url("../../images/biodanzaCircleSmall.jpg");
+		background-position: top;/**/
+		padding-top: 0;
+}
+
+body.is-mobile #main > header {
+		padding: 15em 0 10em 0 ;
+/*		background-image: url("../../images/biodanzaCircleSmall.jpg");
+		background-image: url("../../images/biodanzaCircleSmall.jpg");
+		background-image: url("../../images/biodanzaCircleSmall.jpg");
+		background-image: url("../../images/biodanzaCircleSmall.jpg");/**/
+		background-image: url("../../images/biodanzaCircleSmall2.jpeg");
+		background-image: url("../../images/biodanzaCircleSmall2.jpeg");
+		background-image: url("../../images/biodanzaCircleSmall2.jpeg");
+		background-image: url("../../images/biodanzaCircleSmall2.jpeg");
 		background-position: top;/**/
 		padding-top: 0;
 }
@@ -123,6 +141,7 @@ color: #38181E;}
 
 
 #banner h2{
+  /*font-family: "BlackJackReg";*/
   color: #FDF1EF;/**//*#c77986;/**/ 
  /* font-weight: 100;*/
 /*-webkit-text-stroke-width: 1px;
