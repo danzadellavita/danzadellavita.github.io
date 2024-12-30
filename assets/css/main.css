@@ -23,12 +23,17 @@ body.landing #page-wrapper {
 		background-position: top;
 }
 
-/*body.is-mobile.landing #banner {
+body.is-mobile.landing #banner {
+		background-image: url("../../images/biodanzaCircleSmall2.jpeg");
+		background-image: url("../../images/biodanzaCircleSmall2.jpeg");
+		background-image: url("../../images/biodanzaCircleSmall2.jpeg");
+		background-image: url("../../images/biodanzaCircleSmall2.jpeg");
+		background-position: top;
+		/*background-image: url("../../images/biodanzaCircleSmallNoWhite2.jpg");
 		background-image: url("../../images/biodanzaCircleSmallNoWhite2.jpg");
 		background-image: url("../../images/biodanzaCircleSmallNoWhite2.jpg");
-		background-image: url("../../images/biodanzaCircleSmallNoWhite2.jpg");
-		background-image: url("../../images/biodanzaCircleSmallNoWhite2.jpg");
-}*/
+		background-image: url("../../images/biodanzaCircleSmallNoWhite2.jpg");*/
+}
 
 body {
 		background: #FDF1EF;
