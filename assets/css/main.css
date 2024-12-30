@@ -10,29 +10,40 @@
 		padding-top: 0;
 }
 
+
+
 body.landing #page-wrapper {
 /*		background-image: url("../../images/biodanzaCircleSmallNoWhite3.jpg");
 		background-image: url("../../images/biodanzaCircleSmallNoWhite3.jpg");
 		background-image: url("../../images/biodanzaCircleSmallNoWhite3.jpg");
 		background-image: url("../../images/biodanzaCircleSmallNoWhite3.jpg");
 		background-position: top;/**/
+/*		background-image: url("../../images/biodanzaCircleSmall2.jpeg");
 		background-image: url("../../images/biodanzaCircleSmall2.jpeg");
 		background-image: url("../../images/biodanzaCircleSmall2.jpeg");
-		background-image: url("../../images/biodanzaCircleSmall2.jpeg");
-		background-image: url("../../images/biodanzaCircleSmall2.jpeg");
-		background-position: top;
+		background-image: url("../../images/biodanzaCircleSmall2.jpeg");/**/
+		background-image: url("../../images/biodanzaCircleSmall2.jpg");
+		background-image: url("../../images/biodanzaCircleSmall.jpg");
+		background-image: url("../../images/biodanzaCircleSmall.jpg");
+		background-image: url("../../images/biodanzaCircleSmall.jpg");
+		background-position: top;/**/
 }
 
 body.is-mobile.landing #banner {
+		/*background-image: url("../../images/biodanzaCircleSmall2.jpeg");
 		background-image: url("../../images/biodanzaCircleSmall2.jpeg");
 		background-image: url("../../images/biodanzaCircleSmall2.jpeg");
 		background-image: url("../../images/biodanzaCircleSmall2.jpeg");
-		background-image: url("../../images/biodanzaCircleSmall2.jpeg");
-		background-position: top;
+		background-position: top;/**/
 		/*background-image: url("../../images/biodanzaCircleSmallNoWhite2.jpg");
 		background-image: url("../../images/biodanzaCircleSmallNoWhite2.jpg");
 		background-image: url("../../images/biodanzaCircleSmallNoWhite2.jpg");
-		background-image: url("../../images/biodanzaCircleSmallNoWhite2.jpg");*/
+		background-image: url("../../images/biodanzaCircleSmallNoWhite2.jpg");/**/
+		background-image: url("../../images/biodanzaCircleSmall2.jpg");
+		background-image: url("../../images/biodanzaCircleSmall.jpg");
+		background-image: url("../../images/biodanzaCircleSmall.jpg");
+		background-image: url("../../images/biodanzaCircleSmall.jpg");
+		background-position: top;/**/
 }
 
 body {
@@ -102,8 +113,9 @@ color: #38181E;}
 }
 
 #banner {
+  padding: 3em 3em 3em 3em;
   color: #FDF1EF;/**//*#c77986; /**/
-  /*background-color: rgba(173,68,31,.3);/**//*rgba(237,73,51,.2);*//*rgba(199,121,134,.2);*/
+  /*background-color: rgba(173,68,31,.4);/**//*rgba(237,73,51,.2);*//*rgba(199,121,134,.2);/**/
 }
 
 
@@ -172,16 +184,29 @@ list-style-position: inside;
 }
 
 #header.alt nav > ul > li > a {
-  color: #FFF1E9;/**//*#c77986;*/
+  color: /*#FFF1E9;/**/#c77986;/**/
 }
 
 #header.alt nav > ul > li > a.menuToggle:after {
-  background-image: url("images/bars_lightpink.svg");
+  background-image: url("images/bars_pink.svg");
 }
 
 #header.alt {
   /*background:  rgba(253, 241, 239,.8);/*transparent;*//*#2e3842;*/ 
 }
+
+#article.alt h2{
+  color: #FFF1E9;
+}
+
+#article.alt{
+  background-color:  rgba(253, 241, 239,0);
+}
+
+#main.alt{
+    background-color:  rgba(253, 241, 239,0);
+}
+
 
 a {
   border-bottom: none;
