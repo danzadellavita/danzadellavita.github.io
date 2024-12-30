@@ -14,22 +14,6 @@
 		padding-top: 0;
 }
 
-body.is-mobile #main > header {
-		padding: 15em 0 10em 0 ;
-/*		background-image: url("../../images/biodanzaCircleSmall.jpg");
-		background-image: url("../../images/biodanzaCircleSmall.jpg");
-		background-image: url("../../images/biodanzaCircleSmall.jpg");
-		background-image: url("../../images/biodanzaCircleSmall.jpg");/**/
-		background-image: url("../../images/biodanzaCircleSmall2.jpeg");
-		background-image: url("../../images/biodanzaCircleSmall2.jpeg");
-		background-image: url("../../images/biodanzaCircleSmall2.jpeg");
-		background-image: url("../../images/biodanzaCircleSmall2.jpeg");
-		background-position: top;/**/
-		padding-top: 0;
-}
-
-
-
 body.landing #page-wrapper {
 /*		background-image: url("../../images/biodanzaCircleSmallNoWhite3.jpg");
 		background-image: url("../../images/biodanzaCircleSmallNoWhite3.jpg");
