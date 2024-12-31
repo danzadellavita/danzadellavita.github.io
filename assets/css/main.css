@@ -98,7 +98,7 @@ color: #38181E;}
 #banner {
   padding: 3em 3em 3em 3em;
   color: #FDF1EF;/**//*#c77986; /**/
-  background-color: rgba(173,68,31,.1);/**//*rgba(237,73,51,.2);*//*rgba(199,121,134,.2);/**/
+  /*background-color: rgba(173,68,31,0);/**//*rgba(237,73,51,.2);*//*rgba(199,121,134,.2);/**/
 }
 
 
@@ -209,5 +209,8 @@ ul {
 #content-mobile {display: block;}
 }
 
+#banner.alt2{
+  background: rgba(253, 241, 239,.85);
+}
 
 
